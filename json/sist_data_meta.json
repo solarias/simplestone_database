@@ -1,10 +1,17 @@
 {
   "sets": [
     {
+      "id": 1463,
+      "name": "수습 악마사냥꾼",
+      "slug": "demonhunter-initiate",
+      "releaseDate": null,
+      "type": ""
+    },
+    {
       "id": 1403,
-      "slug": "galakronds-awakening",
-      "releaseDate": "2020-01-01T00:00:00",
       "name": "갈라크론드의 부활",
+      "slug": "galakronds-awakening",
+      "releaseDate": null,
       "type": "adventure",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
@@ -13,9 +20,10 @@
     },
     {
       "id": 1347,
-      "slug": "descent-of-dragons",
-      "releaseDate": "2019-12-01T00:00:00",
       "name": "용의 강림",
+      "slug": "descent-of-dragons",
+      "releaseDate": "2019-12-10",
+      "type": "",
       "collectibleCount": 140,
       "collectibleRevealedCount": 140,
       "nonCollectibleCount": 104,
@@ -23,9 +31,10 @@
     },
     {
       "id": 1158,
-      "slug": "saviors-of-uldum",
-      "releaseDate": "2019-08-06T00:00:00",
       "name": "울둠의 구원자",
+      "slug": "saviors-of-uldum",
+      "releaseDate": "2019-08-06",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 74,
@@ -33,9 +42,10 @@
     },
     {
       "id": 1130,
-      "slug": "rise-of-shadows",
-      "releaseDate": "2019-04-01T00:00:00",
       "name": "어둠의 반격",
+      "slug": "rise-of-shadows",
+      "releaseDate": "2019-04-09",
+      "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 73,
@@ -43,9 +53,10 @@
     },
     {
       "id": 1129,
-      "slug": "rastakhans-rumble",
-      "releaseDate": "2018-12-01T00:00:00",
       "name": "라스타칸의 대난투",
+      "slug": "rastakhans-rumble",
+      "releaseDate": "2018-12-04",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 71,
@@ -53,29 +64,28 @@
     },
     {
       "id": 1127,
-      "slug": "the-boomsday-project",
-      "releaseDate": "2018-08-01T00:00:00",
       "name": "박사 붐의 폭심만만 프로젝트",
+      "slug": "the-boomsday-project",
+      "releaseDate": "2018-07-10",
+      "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 81,
       "nonCollectibleRevealedCount": 20
     },
     {
-      "id": 1125,
-      "slug": "the-witchwood",
-      "releaseDate": "2018-04-01T00:00:00",
+      "id": 1123,
       "name": "마녀숲",
-      "collectibleCount": 135,
-      "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 69,
-      "nonCollectibleRevealedCount": 24
+      "slug": "the-witchwood",
+      "releaseDate": null,
+      "type": "expansion"
     },
     {
       "id": 1004,
-      "slug": "kobolds-and-catacombs",
-      "releaseDate": "2017-12-01T00:00:00",
       "name": "코볼트와 지하 미궁",
+      "slug": "kobolds-and-catacombs",
+      "releaseDate": null,
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 111,
@@ -83,9 +93,10 @@
     },
     {
       "id": 1001,
-      "slug": "knights-of-the-frozen-throne",
-      "releaseDate": "2017-08-01T00:00:00",
       "name": "얼어붙은 왕좌의 기사들",
+      "slug": "knights-of-the-frozen-throne",
+      "releaseDate": null,
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 98,
@@ -93,9 +104,10 @@
     },
     {
       "id": 27,
-      "slug": "journey-to-ungoro",
-      "releaseDate": "2017-04-01T00:00:00",
       "name": "운고로를 향한 여정",
+      "slug": "journey-to-ungoro",
+      "releaseDate": null,
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 93,
@@ -103,9 +115,10 @@
     },
     {
       "id": 25,
-      "slug": "mean-streets-of-gadgetzan",
-      "releaseDate": "2016-12-01T00:00:00",
       "name": "비열한 거리의 가젯잔",
+      "slug": "mean-streets-of-gadgetzan",
+      "releaseDate": null,
+      "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
       "nonCollectibleCount": 125,
@@ -113,9 +126,9 @@
     },
     {
       "id": 23,
-      "slug": "one-night-in-karazhan",
-      "releaseDate": "2016-08-01T00:00:00",
       "name": "한여름 밤의 카라잔",
+      "slug": "one-night-in-karazhan",
+      "releaseDate": null,
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
@@ -124,9 +137,10 @@
     },
     {
       "id": 21,
-      "slug": "whispers-of-the-old-gods",
-      "releaseDate": "2016-04-01T00:00:00",
       "name": "고대 신의 속삭임",
+      "slug": "whispers-of-the-old-gods",
+      "releaseDate": null,
+      "type": "expansion",
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
       "nonCollectibleCount": 84,
@@ -134,9 +148,9 @@
     },
     {
       "id": 20,
-      "slug": "league-of-explorers",
-      "releaseDate": "2015-11-01T00:00:00",
       "name": "탐험가 연맹",
+      "slug": "league-of-explorers",
+      "releaseDate": null,
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
@@ -144,10 +158,22 @@
       "nonCollectibleRevealedCount": 15
     },
     {
+      "id": 17,
+      "name": "title.expansions-adventures.hero-skins.index",
+      "slug": "hero-skins",
+      "releaseDate": null,
+      "type": "",
+      "collectibleCount": 29,
+      "collectibleRevealedCount": 29,
+      "nonCollectibleCount": 51,
+      "nonCollectibleRevealedCount": 0
+    },
+    {
       "id": 15,
-      "slug": "the-grand-tournament",
-      "releaseDate": "2015-08-01T00:00:00",
       "name": "대 마상시합",
+      "slug": "the-grand-tournament",
+      "releaseDate": null,
+      "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
       "nonCollectibleCount": 79,
@@ -155,9 +181,9 @@
     },
     {
       "id": 14,
-      "slug": "blackrock-mountain",
-      "releaseDate": "2015-04-01T00:00:00",
       "name": "검은바위 산",
+      "slug": "blackrock-mountain",
+      "releaseDate": null,
       "type": "adventure",
       "collectibleCount": 31,
       "collectibleRevealedCount": 31,
@@ -166,9 +192,10 @@
     },
     {
       "id": 13,
-      "slug": "goblins-vs-gnomes",
-      "releaseDate": "2014-12-01T00:00:00",
       "name": "고블린 대 노움",
+      "slug": "goblins-vs-gnomes",
+      "releaseDate": null,
+      "type": "expansion",
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
       "nonCollectibleCount": 59,
@@ -176,9 +203,9 @@
     },
     {
       "id": 12,
-      "slug": "naxxramas",
-      "releaseDate": "2014-06-01T00:00:00",
       "name": "낙스라마스의 저주",
+      "slug": "naxxramas",
+      "releaseDate": null,
       "type": "adventure",
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
@@ -186,46 +213,51 @@
       "nonCollectibleRevealedCount": 114
     },
     {
-      "id": 2,
-      "slug": "basic",
-      "name": "기본",
-      "collectibleCount": 142,
-      "collectibleRevealedCount": 142,
-      "nonCollectibleCount": 96,
-      "nonCollectibleRevealedCount": 43
+      "id": 4,
+      "name": "title.expansions-adventures.hall-of-fame.index",
+      "slug": "hall-of-fame",
+      "releaseDate": null,
+      "type": "",
+      "collectibleCount": 18,
+      "collectibleRevealedCount": 18,
+      "nonCollectibleCount": 16,
+      "nonCollectibleRevealedCount": 9
     },
     {
       "id": 3,
+      "name": "title.expansions-adventures.classic.index",
       "slug": "classic",
-      "name": "오리지널",
+      "releaseDate": null,
+      "type": "",
       "collectibleCount": 245,
       "collectibleRevealedCount": 245,
       "nonCollectibleCount": 153,
       "nonCollectibleRevealedCount": 63
     },
     {
-      "id": 4,
-      "slug": "hall-of-fame",
-      "name": "명예의 전당",
-      "collectibleCount": 18,
-      "collectibleRevealedCount": 18,
-      "nonCollectibleCount": 16,
-      "nonCollectibleRevealedCount": 9
+      "id": 2,
+      "name": "title.expansions-adventures.basic.index",
+      "slug": "basic",
+      "releaseDate": null,
+      "type": "",
+      "collectibleCount": 142,
+      "collectibleRevealedCount": 142,
+      "nonCollectibleCount": 96,
+      "nonCollectibleRevealedCount": 43
     }
   ],
   "setGroups": [
     {
-      "slug": "dragon",
-      "year": 2019,
+      "slug": "mammoth",
+      "year": 2017,
       "cardSets": [
-        "galakronds-awakening",
-        "descent-of-dragons",
-        "saviors-of-uldum",
-        "rise-of-shadows"
+        "kobolds-and-catacombs",
+        "knights-of-the-frozen-throne",
+        "journey-to-ungoro"
       ],
-      "name": "용의 해",
-      "standard": true,
-      "icon": "icon_cardset_yearofthedragon"
+      "name": "매머드의 해",
+      "standard": false,
+      "icon": "icon_cardset_yearofthemammoth"
     },
     {
       "slug": "raven",
@@ -240,29 +272,6 @@
       "icon": "icon_cardset_yearoftheraven"
     },
     {
-      "slug": "mammoth",
-      "year": 2017,
-      "cardSets": [
-        "kobolds-and-catacombs",
-        "knights-of-the-frozen-throne",
-        "journey-to-ungoro"
-      ],
-      "name": "매머드의 해",
-      "standard": false,
-      "icon": "icon_cardset_yearofthemammoth"
-    },
-    {
-      "slug": "kraken",
-      "year": 2016,
-      "cardSets": [
-        "mean-streets-of-gadgetzan",
-        "one-night-in-karazhan",
-        "whispers-of-the-old-gods"
-      ],
-      "name": "크라켄의 해",
-      "icon": "icon_cardset_yearofthekraken"
-    },
-    {
       "slug": "classic",
       "year": 2015,
       "cardSets": [
@@ -273,28 +282,39 @@
         "naxxramas"
       ],
       "name": "오리지널 세트",
+      "standard": false,
       "yearRange": "2014-2015",
       "icon": "icon_cardset_classic"
     },
     {
-      "slug": "standard",
+      "slug": "kraken",
+      "year": 2016,
+      "cardSets": [
+        "mean-streets-of-gadgetzan",
+        "one-night-in-karazhan",
+        "whispers-of-the-old-gods"
+      ],
+      "name": "크라켄의 해",
+      "standard": false,
+      "icon": "icon_cardset_yearofthekraken"
+    },
+    {
+      "slug": "dragon",
+      "year": 2019,
       "cardSets": [
         "galakronds-awakening",
         "descent-of-dragons",
-        "wild-event",
         "saviors-of-uldum",
-        "rise-of-shadows",
-        "rastakhans-rumble",
-        "the-boomsday-project",
-        "the-witchwood",
-        "basic",
-        "classic"
+        "rise-of-shadows"
       ],
-      "name": "정규 세트"
+      "name": "용의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearofthedragon"
     },
     {
-      "slug": "wild",
+      "slug": "standard",
       "cardSets": [
+        "demonhunter-initiate",
         "galakronds-awakening",
         "descent-of-dragons",
         "saviors-of-uldum",
@@ -304,6 +324,21 @@
         "the-witchwood",
         "kobolds-and-catacombs",
         "knights-of-the-frozen-throne",
+        "classic",
+        "basic"
+      ],
+      "name": "정규 세트"
+    },
+    {
+      "slug": "wild",
+      "cardSets": [
+        "demonhunter-initiate",
+        "galakronds-awakening",
+        "descent-of-dragons",
+        "saviors-of-uldum",
+        "rise-of-shadows",
+        "rastakhans-rumble",
+        "the-boomsday-project",
         "journey-to-ungoro",
         "mean-streets-of-gadgetzan",
         "one-night-in-karazhan",
@@ -312,10 +347,9 @@
         "the-grand-tournament",
         "blackrock-mountain",
         "goblins-vs-gnomes",
-        "naxxramas",
-        "basic",
+        "hall-of-fame",
         "classic",
-        "hall-of-fame"
+        "basic"
       ],
       "name": "모든 카드"
     }
@@ -1315,69 +1349,43 @@
   ],
   "types": [
     {
-      "id": 3,
-      "slug": "hero",
-      "name": "영웅"
+      "slug": "weapon",
+      "id": 7,
+      "name": "무기"
     },
     {
-      "id": 4,
-      "slug": "minion",
-      "name": "하수인"
-    },
-    {
-      "id": 5,
       "slug": "spell",
+      "id": 5,
       "name": "주문"
     },
     {
-      "id": 7,
-      "slug": "weapon",
-      "name": "무기"
+      "slug": "minion",
+      "id": 4,
+      "name": "하수인"
+    },
+    {
+      "slug": "hero",
+      "id": 3,
+      "name": "영웅"
     }
   ],
   "rarities": [
     {
-      "id": 1,
-      "slug": "common",
+      "slug": "legendary",
+      "id": 5,
       "craftingCost": [
-        40,
-        400
+        1600,
+        3200
       ],
       "dustValue": [
-        5,
-        50
+        400,
+        1600
       ],
-      "name": "일반"
+      "name": "전설"
     },
     {
-      "id": 2,
-      "slug": "free",
-      "craftingCost": [
-        null,
-        null
-      ],
-      "dustValue": [
-        null,
-        null
-      ],
-      "name": "무료"
-    },
-    {
-      "id": 3,
-      "slug": "rare",
-      "craftingCost": [
-        100,
-        800
-      ],
-      "dustValue": [
-        20,
-        100
-      ],
-      "name": "희귀"
-    },
-    {
-      "id": 4,
       "slug": "epic",
+      "id": 4,
       "craftingCost": [
         400,
         1600
@@ -1389,147 +1397,173 @@
       "name": "특급"
     },
     {
-      "id": 5,
-      "slug": "legendary",
+      "slug": "rare",
+      "id": 3,
       "craftingCost": [
-        1600,
-        3200
+        100,
+        800
       ],
       "dustValue": [
-        400,
-        1600
+        20,
+        100
       ],
-      "name": "전설"
+      "name": "희귀"
+    },
+    {
+      "slug": "free",
+      "id": 2,
+      "craftingCost": [
+        null,
+        null
+      ],
+      "dustValue": [
+        null,
+        null
+      ],
+      "name": "무료"
+    },
+    {
+      "slug": "common",
+      "id": 1,
+      "craftingCost": [
+        50,
+        400
+      ],
+      "dustValue": [
+        5,
+        50
+      ],
+      "name": "일반"
     }
   ],
   "classes": [
     {
-      "id": "*",
-      "slug": "all",
-      "name": "모든 직업"
+      "slug": "demonhunter",
+      "id": 14,
+      "name": ""
     },
     {
-      "id": 2,
       "slug": "druid",
-      "cardId": 274,
-      "name": "드루이드"
+      "id": 2,
+      "name": "드루이드",
+      "cardId": 274
     },
     {
-      "id": 3,
       "slug": "hunter",
-      "cardId": 31,
-      "name": "사냥꾼"
+      "id": 3,
+      "name": "사냥꾼",
+      "cardId": 31
     },
     {
-      "id": 4,
       "slug": "mage",
-      "cardId": 637,
-      "name": "마법사"
+      "id": 4,
+      "name": "마법사",
+      "cardId": 637
     },
     {
-      "id": 5,
       "slug": "paladin",
-      "cardId": 671,
-      "name": "성기사"
+      "id": 5,
+      "name": "성기사",
+      "cardId": 671
     },
     {
-      "id": 6,
       "slug": "priest",
-      "cardId": 813,
-      "name": "사제"
+      "id": 6,
+      "name": "사제",
+      "cardId": 813
     },
     {
-      "id": 7,
       "slug": "rogue",
-      "cardId": 930,
-      "name": "도적"
+      "id": 7,
+      "name": "도적",
+      "cardId": 930
     },
     {
-      "id": 8,
       "slug": "shaman",
-      "cardId": 1066,
-      "name": "주술사"
+      "id": 8,
+      "name": "주술사",
+      "cardId": 1066
     },
     {
-      "id": 9,
       "slug": "warlock",
-      "cardId": 893,
-      "name": "흑마법사"
+      "id": 9,
+      "name": "흑마법사",
+      "cardId": 893
     },
     {
-      "id": 10,
       "slug": "warrior",
-      "cardId": 7,
-      "name": "전사"
+      "id": 10,
+      "name": "전사",
+      "cardId": 7
     },
     {
-      "id": 12,
       "slug": "neutral",
+      "id": 12,
       "name": "중립"
     }
   ],
   "minionTypes": [
     {
-      "id": 14,
-      "slug": "murloc",
-      "name": "멀록"
+      "slug": "all",
+      "id": 26,
+      "name": "모두"
     },
     {
-      "id": 15,
-      "slug": "demon",
-      "name": "악마"
-    },
-    {
-      "id": 17,
-      "slug": "mech",
-      "name": "기계"
-    },
-    {
-      "id": 18,
-      "slug": "elemental",
-      "name": "정령"
-    },
-    {
-      "id": 20,
-      "slug": "beast",
-      "name": "야수"
-    },
-    {
-      "id": 21,
-      "slug": "totem",
-      "name": "토템"
-    },
-    {
-      "id": 23,
-      "slug": "pirate",
-      "name": "해적"
-    },
-    {
-      "id": 24,
       "slug": "dragon",
+      "id": 24,
       "name": "용족"
     },
     {
-      "id": 26,
-      "slug": "all",
-      "name": "모두"
+      "slug": "pirate",
+      "id": 23,
+      "name": "해적"
+    },
+    {
+      "slug": "totem",
+      "id": 21,
+      "name": "토템"
+    },
+    {
+      "slug": "beast",
+      "id": 20,
+      "name": "야수"
+    },
+    {
+      "slug": "elemental",
+      "id": 18,
+      "name": "정령"
+    },
+    {
+      "slug": "mech",
+      "id": 17,
+      "name": "기계"
+    },
+    {
+      "slug": "demon",
+      "id": 15,
+      "name": "악마"
+    },
+    {
+      "slug": "murloc",
+      "id": 14,
+      "name": "멀록"
     }
   ],
   "gameModes": [
     {
-      "id": 1,
       "slug": "constructed",
+      "id": 1,
       "name": "정규 및 야생"
     },
     {
-      "id": 2,
       "slug": "battlegrounds",
+      "id": 2,
       "name": "전장"
     },
     {
-      "id": 3,
       "slug": "arena",
-      "name": "Arena Cards"
+      "id": 3,
+      "name": "현재 투기장 카드"
     }
   ],
   "keywords": [
@@ -1771,59 +1805,14 @@
   ],
   "cardBackCategories": [
     {
+      "slug": "events",
+      "id": 13,
+      "name": "대회"
+    },
+    {
       "slug": "base",
       "id": 1,
       "name": "기본"
-    },
-    {
-      "slug": "fireside",
-      "id": 2,
-      "name": "와글와글 하스스톤"
-    },
-    {
-      "slug": "achieve",
-      "id": 3,
-      "name": "업적"
-    },
-    {
-      "slug": "heroes",
-      "id": 4,
-      "name": "영웅"
-    },
-    {
-      "slug": "season",
-      "id": 5,
-      "name": "시즌"
-    },
-    {
-      "slug": "legend",
-      "id": 6,
-      "name": "전설"
-    },
-    {
-      "slug": "esports",
-      "id": 7,
-      "name": "e스포츠"
-    },
-    {
-      "slug": "game_license",
-      "id": 8,
-      "name": "게임"
-    },
-    {
-      "slug": "promotion",
-      "id": 9,
-      "name": "프로모션"
-    },
-    {
-      "slug": "pre_purchase",
-      "id": 10,
-      "name": "예약 구매"
-    },
-    {
-      "slug": "blizzard",
-      "id": 11,
-      "name": "블리자드"
     },
     {
       "slug": "golden",
@@ -1831,9 +1820,54 @@
       "name": "황금"
     },
     {
-      "slug": "events",
-      "id": 13,
-      "name": "대회"
+      "slug": "blizzard",
+      "id": 11,
+      "name": "블리자드"
+    },
+    {
+      "slug": "pre_purchase",
+      "id": 10,
+      "name": "예약 구매"
+    },
+    {
+      "slug": "promotion",
+      "id": 9,
+      "name": "프로모션"
+    },
+    {
+      "slug": "game_license",
+      "id": 8,
+      "name": "게임"
+    },
+    {
+      "slug": "esports",
+      "id": 7,
+      "name": "e스포츠"
+    },
+    {
+      "slug": "legend",
+      "id": 6,
+      "name": "전설"
+    },
+    {
+      "slug": "season",
+      "id": 5,
+      "name": "시즌"
+    },
+    {
+      "slug": "heroes",
+      "id": 4,
+      "name": "영웅"
+    },
+    {
+      "slug": "achieve",
+      "id": 3,
+      "name": "업적"
+    },
+    {
+      "slug": "fireside",
+      "id": 2,
+      "name": "와글와글 하스스톤"
     }
   ]
 }
