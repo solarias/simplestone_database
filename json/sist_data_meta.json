@@ -5,13 +5,28 @@
       "name": "수습 악마사냥꾼",
       "slug": "demonhunter-initiate",
       "releaseDate": null,
-      "type": ""
+      "type": "",
+      "collectibleCount": 20,
+      "collectibleRevealedCount": 17,
+      "nonCollectibleCount": 9,
+      "nonCollectibleRevealedCount": 3
+    },
+    {
+      "id": 1414,
+      "name": "황폐한 아웃랜드",
+      "slug": "ashes-of-outland",
+      "releaseDate": "2020-04-07",
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 18,
+      "nonCollectibleCount": 116,
+      "nonCollectibleRevealedCount": 8
     },
     {
       "id": 1403,
       "name": "갈라크론드의 부활",
       "slug": "galakronds-awakening",
-      "releaseDate": null,
+      "releaseDate": "2020-01-15",
       "type": "adventure",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
@@ -23,7 +38,7 @@
       "name": "용의 강림",
       "slug": "descent-of-dragons",
       "releaseDate": "2019-12-10",
-      "type": "",
+      "type": "expansion",
       "collectibleCount": 140,
       "collectibleRevealedCount": 140,
       "nonCollectibleCount": 104,
@@ -74,17 +89,21 @@
       "nonCollectibleRevealedCount": 20
     },
     {
-      "id": 1123,
+      "id": 1125,
       "name": "마녀숲",
       "slug": "the-witchwood",
-      "releaseDate": null,
-      "type": "expansion"
+      "releaseDate": "2018-04-01",
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 69,
+      "nonCollectibleRevealedCount": 24
     },
     {
       "id": 1004,
       "name": "코볼트와 지하 미궁",
       "slug": "kobolds-and-catacombs",
-      "releaseDate": null,
+      "releaseDate": "2017-12-01",
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
@@ -95,7 +114,7 @@
       "id": 1001,
       "name": "얼어붙은 왕좌의 기사들",
       "slug": "knights-of-the-frozen-throne",
-      "releaseDate": null,
+      "releaseDate": "2017-08-01",
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
@@ -106,7 +125,7 @@
       "id": 27,
       "name": "운고로를 향한 여정",
       "slug": "journey-to-ungoro",
-      "releaseDate": null,
+      "releaseDate": "2017-04-01",
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
@@ -117,7 +136,7 @@
       "id": 25,
       "name": "비열한 거리의 가젯잔",
       "slug": "mean-streets-of-gadgetzan",
-      "releaseDate": null,
+      "releaseDate": "2016-12-01",
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
@@ -128,7 +147,7 @@
       "id": 23,
       "name": "한여름 밤의 카라잔",
       "slug": "one-night-in-karazhan",
-      "releaseDate": null,
+      "releaseDate": "2016-08-01",
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
@@ -139,7 +158,7 @@
       "id": 21,
       "name": "고대 신의 속삭임",
       "slug": "whispers-of-the-old-gods",
-      "releaseDate": null,
+      "releaseDate": "2016-04-01",
       "type": "expansion",
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
@@ -150,7 +169,7 @@
       "id": 20,
       "name": "탐험가 연맹",
       "slug": "league-of-explorers",
-      "releaseDate": null,
+      "releaseDate": "2015-11-01",
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
@@ -158,21 +177,10 @@
       "nonCollectibleRevealedCount": 15
     },
     {
-      "id": 17,
-      "name": "title.expansions-adventures.hero-skins.index",
-      "slug": "hero-skins",
-      "releaseDate": null,
-      "type": "",
-      "collectibleCount": 29,
-      "collectibleRevealedCount": 29,
-      "nonCollectibleCount": 51,
-      "nonCollectibleRevealedCount": 0
-    },
-    {
       "id": 15,
       "name": "대 마상시합",
       "slug": "the-grand-tournament",
-      "releaseDate": null,
+      "releaseDate": "2015-08-01",
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
@@ -183,7 +191,7 @@
       "id": 14,
       "name": "검은바위 산",
       "slug": "blackrock-mountain",
-      "releaseDate": null,
+      "releaseDate": "2015-04-01",
       "type": "adventure",
       "collectibleCount": 31,
       "collectibleRevealedCount": 31,
@@ -194,7 +202,7 @@
       "id": 13,
       "name": "고블린 대 노움",
       "slug": "goblins-vs-gnomes",
-      "releaseDate": null,
+      "releaseDate": "2014-12-01",
       "type": "expansion",
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
@@ -205,7 +213,7 @@
       "id": 12,
       "name": "낙스라마스의 저주",
       "slug": "naxxramas",
-      "releaseDate": null,
+      "releaseDate": "2014-06-01",
       "type": "adventure",
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
@@ -214,7 +222,7 @@
     },
     {
       "id": 4,
-      "name": "title.expansions-adventures.hall-of-fame.index",
+      "name": "명예의 전당",
       "slug": "hall-of-fame",
       "releaseDate": null,
       "type": "",
@@ -225,7 +233,7 @@
     },
     {
       "id": 3,
-      "name": "title.expansions-adventures.classic.index",
+      "name": "오리지널",
       "slug": "classic",
       "releaseDate": null,
       "type": "",
@@ -236,17 +244,27 @@
     },
     {
       "id": 2,
-      "name": "title.expansions-adventures.basic.index",
+      "name": "기본",
       "slug": "basic",
       "releaseDate": null,
       "type": "",
-      "collectibleCount": 142,
-      "collectibleRevealedCount": 142,
-      "nonCollectibleCount": 96,
-      "nonCollectibleRevealedCount": 43
+      "collectibleCount": 153,
+      "collectibleRevealedCount": 151,
+      "nonCollectibleCount": 100,
+      "nonCollectibleRevealedCount": 44
     }
   ],
   "setGroups": [
+    {
+      "slug": "phoenix",
+      "year": 2020,
+      "cardSets": [
+        "ashes-of-outland"
+      ],
+      "name": "불사조의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearofthephoenix"
+    },
     {
       "slug": "mammoth",
       "year": 2017,
@@ -315,6 +333,7 @@
       "slug": "standard",
       "cardSets": [
         "demonhunter-initiate",
+        "ashes-of-outland",
         "galakronds-awakening",
         "descent-of-dragons",
         "saviors-of-uldum",
@@ -322,8 +341,6 @@
         "rastakhans-rumble",
         "the-boomsday-project",
         "the-witchwood",
-        "kobolds-and-catacombs",
-        "knights-of-the-frozen-throne",
         "classic",
         "basic"
       ],
@@ -333,12 +350,15 @@
       "slug": "wild",
       "cardSets": [
         "demonhunter-initiate",
+        "ashes-of-outland",
         "galakronds-awakening",
         "descent-of-dragons",
         "saviors-of-uldum",
         "rise-of-shadows",
         "rastakhans-rumble",
         "the-boomsday-project",
+        "kobolds-and-catacombs",
+        "knights-of-the-frozen-throne",
         "journey-to-ungoro",
         "mean-streets-of-gadgetzan",
         "one-night-in-karazhan",
@@ -1440,7 +1460,8 @@
     {
       "slug": "demonhunter",
       "id": 14,
-      "name": ""
+      "name": "악마사냥꾼",
+      "cardId": 56550
     },
     {
       "slug": "druid",
@@ -1725,8 +1746,8 @@
       "id": 52,
       "slug": "echo",
       "name": "잔상",
-      "refText": "내가 낸 턴에 여러번 낼 수 있습니다.",
-      "text": "내가 낸 턴에 여러번 낼 수 있습니다."
+      "refText": "내가 낸 턴에 여러번 낼 수 있습니다. 잔상으로 생성된 카드는 비용이 (1)보다 낮아지진 않습니다.",
+      "text": "내가 낸 턴에 여러번 낼 수 있습니다. 잔상으로 생성된 카드는 비용이 (1)보다 낮아지진 않습니다."
     },
     {
       "id": 53,
@@ -1783,6 +1804,13 @@
       "name": "기원",
       "refText": "갈라크론드의 힘을 사용합니다. ",
       "text": "갈라크론드의 힘을 사용합니다. "
+    },
+    {
+      "id": 86,
+      "slug": "outcast",
+      "name": "추방자",
+      "refText": "손에서 가장 왼쪽 또는 오른쪽에 있으면 추가 효과를 냅니다.",
+      "text": "손에서 가장 왼쪽 또는 오른쪽에 있으면 추가 효과를 냅니다."
     }
   ],
   "filterableFields": [
