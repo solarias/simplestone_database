@@ -18,9 +18,9 @@
       "releaseDate": "2020-04-07",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 18,
+      "collectibleRevealedCount": 22,
       "nonCollectibleCount": 116,
-      "nonCollectibleRevealedCount": 8
+      "nonCollectibleRevealedCount": 7
     },
     {
       "id": 1403,
@@ -357,6 +357,7 @@
         "rise-of-shadows",
         "rastakhans-rumble",
         "the-boomsday-project",
+        "the-witchwood",
         "kobolds-and-catacombs",
         "knights-of-the-frozen-throne",
         "journey-to-ungoro",
@@ -367,6 +368,7 @@
         "the-grand-tournament",
         "blackrock-mountain",
         "goblins-vs-gnomes",
+        "naxxramas",
         "hall-of-fame",
         "classic",
         "basic"
