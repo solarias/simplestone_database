@@ -18,9 +18,9 @@
       "releaseDate": "2020-04-07",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 32,
+      "collectibleRevealedCount": 37,
       "nonCollectibleCount": 116,
-      "nonCollectibleRevealedCount": 11
+      "nonCollectibleRevealedCount": 13
     },
     {
       "id": 1403,
@@ -251,7 +251,7 @@
       "collectibleCount": 153,
       "collectibleRevealedCount": 151,
       "nonCollectibleCount": 100,
-      "nonCollectibleRevealedCount": 44
+      "nonCollectibleRevealedCount": 46
     }
   ],
   "setGroups": [
