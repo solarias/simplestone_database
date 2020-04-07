@@ -256,6 +256,18 @@
   ],
   "setGroups": [
     {
+      "slug": "raven",
+      "year": 2018,
+      "cardSets": [
+        "rastakhans-rumble",
+        "the-boomsday-project",
+        "the-witchwood"
+      ],
+      "name": "까마귀의 해",
+      "standard": false,
+      "icon": "icon_cardset_yearoftheraven"
+    },
+    {
       "slug": "phoenix",
       "year": 2020,
       "cardSets": [
@@ -276,18 +288,6 @@
       "name": "매머드의 해",
       "standard": false,
       "icon": "icon_cardset_yearofthemammoth"
-    },
-    {
-      "slug": "raven",
-      "year": 2018,
-      "cardSets": [
-        "rastakhans-rumble",
-        "the-boomsday-project",
-        "the-witchwood"
-      ],
-      "name": "까마귀의 해",
-      "standard": true,
-      "icon": "icon_cardset_yearoftheraven"
     },
     {
       "slug": "classic",
@@ -338,9 +338,6 @@
         "descent-of-dragons",
         "saviors-of-uldum",
         "rise-of-shadows",
-        "rastakhans-rumble",
-        "the-boomsday-project",
-        "the-witchwood",
         "classic",
         "basic"
       ],
