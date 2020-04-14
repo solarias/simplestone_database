@@ -256,6 +256,29 @@
   ],
   "setGroups": [
     {
+      "slug": "phoenix",
+      "year": 2020,
+      "cardSets": [
+        "ashes-of-outland"
+      ],
+      "name": "불사조의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearofthephoenix"
+    },
+    {
+      "slug": "dragon",
+      "year": 2019,
+      "cardSets": [
+        "galakronds-awakening",
+        "descent-of-dragons",
+        "saviors-of-uldum",
+        "rise-of-shadows"
+      ],
+      "name": "용의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearofthedragon"
+    },
+    {
       "slug": "raven",
       "year": 2018,
       "cardSets": [
@@ -268,16 +291,6 @@
       "icon": "icon_cardset_yearoftheraven"
     },
     {
-      "slug": "phoenix",
-      "year": 2020,
-      "cardSets": [
-        "ashes-of-outland"
-      ],
-      "name": "불사조의 해",
-      "standard": true,
-      "icon": "icon_cardset_yearofthephoenix"
-    },
-    {
       "slug": "mammoth",
       "year": 2017,
       "cardSets": [
@@ -288,6 +301,18 @@
       "name": "매머드의 해",
       "standard": false,
       "icon": "icon_cardset_yearofthemammoth"
+    },
+    {
+      "slug": "kraken",
+      "year": 2016,
+      "cardSets": [
+        "mean-streets-of-gadgetzan",
+        "one-night-in-karazhan",
+        "whispers-of-the-old-gods"
+      ],
+      "name": "크라켄의 해",
+      "standard": false,
+      "icon": "icon_cardset_yearofthekraken"
     },
     {
       "slug": "classic",
@@ -303,31 +328,6 @@
       "standard": false,
       "yearRange": "2014-2015",
       "icon": "icon_cardset_classic"
-    },
-    {
-      "slug": "kraken",
-      "year": 2016,
-      "cardSets": [
-        "mean-streets-of-gadgetzan",
-        "one-night-in-karazhan",
-        "whispers-of-the-old-gods"
-      ],
-      "name": "크라켄의 해",
-      "standard": false,
-      "icon": "icon_cardset_yearofthekraken"
-    },
-    {
-      "slug": "dragon",
-      "year": 2019,
-      "cardSets": [
-        "galakronds-awakening",
-        "descent-of-dragons",
-        "saviors-of-uldum",
-        "rise-of-shadows"
-      ],
-      "name": "용의 해",
-      "standard": true,
-      "icon": "icon_cardset_yearofthedragon"
     },
     {
       "slug": "standard",
@@ -1371,14 +1371,9 @@
   ],
   "types": [
     {
-      "slug": "weapon",
-      "id": 7,
-      "name": "무기"
-    },
-    {
-      "slug": "spell",
-      "id": 5,
-      "name": "주문"
+      "slug": "hero",
+      "id": 3,
+      "name": "영웅"
     },
     {
       "slug": "minion",
@@ -1386,50 +1381,29 @@
       "name": "하수인"
     },
     {
-      "slug": "hero",
-      "id": 3,
-      "name": "영웅"
+      "slug": "spell",
+      "id": 5,
+      "name": "주문"
+    },
+    {
+      "slug": "weapon",
+      "id": 7,
+      "name": "무기"
     }
   ],
   "rarities": [
     {
-      "slug": "legendary",
-      "id": 5,
+      "slug": "common",
+      "id": 1,
       "craftingCost": [
-        1600,
-        3200
-      ],
-      "dustValue": [
-        400,
-        1600
-      ],
-      "name": "전설"
-    },
-    {
-      "slug": "epic",
-      "id": 4,
-      "craftingCost": [
-        400,
-        1600
-      ],
-      "dustValue": [
-        100,
+        50,
         400
       ],
-      "name": "특급"
-    },
-    {
-      "slug": "rare",
-      "id": 3,
-      "craftingCost": [
-        100,
-        800
-      ],
       "dustValue": [
-        20,
-        100
+        5,
+        50
       ],
-      "name": "희귀"
+      "name": "일반"
     },
     {
       "slug": "free",
@@ -1445,17 +1419,43 @@
       "name": "무료"
     },
     {
-      "slug": "common",
-      "id": 1,
+      "slug": "rare",
+      "id": 3,
       "craftingCost": [
-        50,
-        400
+        100,
+        800
       ],
       "dustValue": [
-        5,
-        50
+        20,
+        100
       ],
-      "name": "일반"
+      "name": "희귀"
+    },
+    {
+      "slug": "epic",
+      "id": 4,
+      "craftingCost": [
+        400,
+        1600
+      ],
+      "dustValue": [
+        100,
+        400
+      ],
+      "name": "특급"
+    },
+    {
+      "slug": "legendary",
+      "id": 5,
+      "craftingCost": [
+        1600,
+        3200
+      ],
+      "dustValue": [
+        400,
+        1600
+      ],
+      "name": "전설"
     }
   ],
   "classes": [
@@ -1527,39 +1527,9 @@
   ],
   "minionTypes": [
     {
-      "slug": "all",
-      "id": 26,
-      "name": "모두"
-    },
-    {
-      "slug": "dragon",
-      "id": 24,
-      "name": "용족"
-    },
-    {
-      "slug": "pirate",
-      "id": 23,
-      "name": "해적"
-    },
-    {
-      "slug": "totem",
-      "id": 21,
-      "name": "토템"
-    },
-    {
-      "slug": "beast",
-      "id": 20,
-      "name": "야수"
-    },
-    {
-      "slug": "elemental",
-      "id": 18,
-      "name": "정령"
-    },
-    {
-      "slug": "mech",
-      "id": 17,
-      "name": "기계"
+      "slug": "murloc",
+      "id": 14,
+      "name": "멀록"
     },
     {
       "slug": "demon",
@@ -1567,9 +1537,39 @@
       "name": "악마"
     },
     {
-      "slug": "murloc",
-      "id": 14,
-      "name": "멀록"
+      "slug": "mech",
+      "id": 17,
+      "name": "기계"
+    },
+    {
+      "slug": "elemental",
+      "id": 18,
+      "name": "정령"
+    },
+    {
+      "slug": "beast",
+      "id": 20,
+      "name": "야수"
+    },
+    {
+      "slug": "totem",
+      "id": 21,
+      "name": "토템"
+    },
+    {
+      "slug": "pirate",
+      "id": 23,
+      "name": "해적"
+    },
+    {
+      "slug": "dragon",
+      "id": 24,
+      "name": "용족"
+    },
+    {
+      "slug": "all",
+      "id": 26,
+      "name": "모두"
     }
   ],
   "gameModes": [
@@ -1835,59 +1835,14 @@
   ],
   "cardBackCategories": [
     {
-      "slug": "events",
-      "id": 13,
-      "name": "대회"
-    },
-    {
       "slug": "base",
       "id": 1,
       "name": "기본"
     },
     {
-      "slug": "golden",
-      "id": 12,
-      "name": "황금"
-    },
-    {
-      "slug": "blizzard",
-      "id": 11,
-      "name": "블리자드"
-    },
-    {
-      "slug": "pre_purchase",
-      "id": 10,
-      "name": "예약 구매"
-    },
-    {
-      "slug": "promotion",
-      "id": 9,
-      "name": "프로모션"
-    },
-    {
-      "slug": "game_license",
-      "id": 8,
-      "name": "게임"
-    },
-    {
-      "slug": "esports",
-      "id": 7,
-      "name": "e스포츠"
-    },
-    {
-      "slug": "legend",
-      "id": 6,
-      "name": "전설"
-    },
-    {
-      "slug": "season",
-      "id": 5,
-      "name": "시즌"
-    },
-    {
-      "slug": "heroes",
-      "id": 4,
-      "name": "영웅"
+      "slug": "fireside",
+      "id": 2,
+      "name": "와글와글 하스스톤"
     },
     {
       "slug": "achieve",
@@ -1895,9 +1850,54 @@
       "name": "업적"
     },
     {
-      "slug": "fireside",
-      "id": 2,
-      "name": "와글와글 하스스톤"
+      "slug": "heroes",
+      "id": 4,
+      "name": "영웅"
+    },
+    {
+      "slug": "season",
+      "id": 5,
+      "name": "시즌"
+    },
+    {
+      "slug": "legend",
+      "id": 6,
+      "name": "전설"
+    },
+    {
+      "slug": "esports",
+      "id": 7,
+      "name": "e스포츠"
+    },
+    {
+      "slug": "game_license",
+      "id": 8,
+      "name": "게임"
+    },
+    {
+      "slug": "promotion",
+      "id": 9,
+      "name": "프로모션"
+    },
+    {
+      "slug": "pre_purchase",
+      "id": 10,
+      "name": "예약 구매"
+    },
+    {
+      "slug": "blizzard",
+      "id": 11,
+      "name": "블리자드"
+    },
+    {
+      "slug": "golden",
+      "id": 12,
+      "name": "황금"
+    },
+    {
+      "slug": "events",
+      "id": 13,
+      "name": "대회"
     }
   ]
 }
