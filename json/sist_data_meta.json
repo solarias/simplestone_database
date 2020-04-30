@@ -226,8 +226,8 @@
       "slug": "hall-of-fame",
       "releaseDate": null,
       "type": "",
-      "collectibleCount": 12,
-      "collectibleRevealedCount": 12,
+      "collectibleCount": 35,
+      "collectibleRevealedCount": 35,
       "nonCollectibleCount": 15,
       "nonCollectibleRevealedCount": 9
     },
@@ -237,8 +237,8 @@
       "slug": "classic",
       "releaseDate": null,
       "type": "",
-      "collectibleCount": 261,
-      "collectibleRevealedCount": 261,
+      "collectibleCount": 240,
+      "collectibleRevealedCount": 240,
       "nonCollectibleCount": 157,
       "nonCollectibleRevealedCount": 63
     },
@@ -248,8 +248,8 @@
       "slug": "basic",
       "releaseDate": null,
       "type": "",
-      "collectibleCount": 155,
-      "collectibleRevealedCount": 155,
+      "collectibleCount": 153,
+      "collectibleRevealedCount": 153,
       "nonCollectibleCount": 107,
       "nonCollectibleRevealedCount": 46
     }
