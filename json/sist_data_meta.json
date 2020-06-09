@@ -8,7 +8,7 @@
       "type": "",
       "collectibleCount": 20,
       "collectibleRevealedCount": 20,
-      "nonCollectibleCount": 9,
+      "nonCollectibleCount": 3,
       "nonCollectibleRevealedCount": 3
     },
     {
@@ -19,8 +19,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 116,
-      "nonCollectibleRevealedCount": 57
+      "nonCollectibleCount": 62,
+      "nonCollectibleRevealedCount": 56
     },
     {
       "id": 1403,
@@ -30,8 +30,8 @@
       "type": "adventure",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
-      "nonCollectibleCount": 246,
-      "nonCollectibleRevealedCount": 43
+      "nonCollectibleCount": 10,
+      "nonCollectibleRevealedCount": 5
     },
     {
       "id": 1347,
@@ -41,7 +41,7 @@
       "type": "expansion",
       "collectibleCount": 140,
       "collectibleRevealedCount": 140,
-      "nonCollectibleCount": 104,
+      "nonCollectibleCount": 59,
       "nonCollectibleRevealedCount": 55
     },
     {
@@ -52,7 +52,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 74,
+      "nonCollectibleCount": 37,
       "nonCollectibleRevealedCount": 35
     },
     {
@@ -63,7 +63,7 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 73,
+      "nonCollectibleCount": 39,
       "nonCollectibleRevealedCount": 36
     },
     {
@@ -74,7 +74,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 71,
+      "nonCollectibleCount": 29,
       "nonCollectibleRevealedCount": 29
     },
     {
@@ -85,7 +85,7 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 81,
+      "nonCollectibleCount": 20,
       "nonCollectibleRevealedCount": 20
     },
     {
@@ -96,7 +96,7 @@
       "type": "expansion",
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
-      "nonCollectibleCount": 69,
+      "nonCollectibleCount": 24,
       "nonCollectibleRevealedCount": 24
     },
     {
@@ -107,7 +107,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 111,
+      "nonCollectibleCount": 72,
       "nonCollectibleRevealedCount": 72
     },
     {
@@ -118,7 +118,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 98,
+      "nonCollectibleCount": 110,
       "nonCollectibleRevealedCount": 48
     },
     {
@@ -129,7 +129,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 93,
+      "nonCollectibleCount": 52,
       "nonCollectibleRevealedCount": 52
     },
     {
@@ -140,7 +140,7 @@
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
-      "nonCollectibleCount": 125,
+      "nonCollectibleCount": 82,
       "nonCollectibleRevealedCount": 82
     },
     {
@@ -151,7 +151,7 @@
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
-      "nonCollectibleCount": 70,
+      "nonCollectibleCount": 53,
       "nonCollectibleRevealedCount": 53
     },
     {
@@ -162,8 +162,8 @@
       "type": "expansion",
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
-      "nonCollectibleCount": 84,
-      "nonCollectibleRevealedCount": 31
+      "nonCollectibleCount": 30,
+      "nonCollectibleRevealedCount": 30
     },
     {
       "id": 20,
@@ -173,7 +173,7 @@
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
-      "nonCollectibleCount": 27,
+      "nonCollectibleCount": 183,
       "nonCollectibleRevealedCount": 15
     },
     {
@@ -184,8 +184,8 @@
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
-      "nonCollectibleCount": 79,
-      "nonCollectibleRevealedCount": 27
+      "nonCollectibleCount": 19,
+      "nonCollectibleRevealedCount": 18
     },
     {
       "id": 14,
@@ -195,7 +195,7 @@
       "type": "adventure",
       "collectibleCount": 31,
       "collectibleRevealedCount": 31,
-      "nonCollectibleCount": 23,
+      "nonCollectibleCount": 170,
       "nonCollectibleRevealedCount": 12
     },
     {
@@ -206,7 +206,7 @@
       "type": "expansion",
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
-      "nonCollectibleCount": 59,
+      "nonCollectibleCount": 20,
       "nonCollectibleRevealedCount": 20
     },
     {
@@ -217,7 +217,7 @@
       "type": "adventure",
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
-      "nonCollectibleCount": 134,
+      "nonCollectibleCount": 114,
       "nonCollectibleRevealedCount": 114
     },
     {
@@ -228,7 +228,7 @@
       "type": "",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
-      "nonCollectibleCount": 15,
+      "nonCollectibleCount": 9,
       "nonCollectibleRevealedCount": 9
     },
     {
@@ -239,7 +239,7 @@
       "type": "",
       "collectibleCount": 240,
       "collectibleRevealedCount": 240,
-      "nonCollectibleCount": 157,
+      "nonCollectibleCount": 63,
       "nonCollectibleRevealedCount": 63
     },
     {
@@ -250,8 +250,8 @@
       "type": "",
       "collectibleCount": 153,
       "collectibleRevealedCount": 153,
-      "nonCollectibleCount": 107,
-      "nonCollectibleRevealedCount": 46
+      "nonCollectibleCount": 59,
+      "nonCollectibleRevealedCount": 57
     }
   ],
   "setGroups": [
@@ -1696,6 +1696,13 @@
       "text": "피해를 받지 않습니다."
     },
     {
+      "id": 19,
+      "slug": "spare-part",
+      "name": "예비 부품",
+      "refText": "비용이 1이고 가벼운 효과를 내는 주문입니다.",
+      "text": "비용이 1이고 가벼운 효과를 내는 주문입니다."
+    },
+    {
       "id": 20,
       "slug": "inspire",
       "name": "격려",
@@ -1813,6 +1820,13 @@
       "name": "추방자",
       "refText": "손에서 가장 왼쪽 또는 오른쪽에 있으면 추가 효과를 냅니다.",
       "text": "손에서 가장 왼쪽 또는 오른쪽에 있으면 추가 효과를 냅니다."
+    },
+    {
+      "id": 89,
+      "slug": "sidequest",
+      "name": "부가 퀘스트",
+      "refText": "완료하면 보상을 얻습니다.",
+      "text": "완료하면 보상을 얻습니다."
     }
   ],
   "filterableFields": [
