@@ -8,7 +8,7 @@
       "type": "",
       "collectibleCount": 20,
       "collectibleRevealedCount": 20,
-      "nonCollectibleCount": 3,
+      "nonCollectibleCount": 9,
       "nonCollectibleRevealedCount": 3
     },
     {
@@ -19,8 +19,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 62,
-      "nonCollectibleRevealedCount": 56
+      "nonCollectibleCount": 255,
+      "nonCollectibleRevealedCount": 57
     },
     {
       "id": 1403,
@@ -30,8 +30,8 @@
       "type": "adventure",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
-      "nonCollectibleCount": 10,
-      "nonCollectibleRevealedCount": 5
+      "nonCollectibleCount": 247,
+      "nonCollectibleRevealedCount": 43
     },
     {
       "id": 1347,
@@ -41,7 +41,7 @@
       "type": "expansion",
       "collectibleCount": 140,
       "collectibleRevealedCount": 140,
-      "nonCollectibleCount": 59,
+      "nonCollectibleCount": 104,
       "nonCollectibleRevealedCount": 55
     },
     {
@@ -52,7 +52,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 37,
+      "nonCollectibleCount": 74,
       "nonCollectibleRevealedCount": 35
     },
     {
@@ -63,7 +63,7 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 39,
+      "nonCollectibleCount": 73,
       "nonCollectibleRevealedCount": 36
     },
     {
@@ -74,7 +74,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 29,
+      "nonCollectibleCount": 71,
       "nonCollectibleRevealedCount": 29
     },
     {
@@ -85,7 +85,7 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 20,
+      "nonCollectibleCount": 81,
       "nonCollectibleRevealedCount": 20
     },
     {
@@ -96,7 +96,7 @@
       "type": "expansion",
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
-      "nonCollectibleCount": 24,
+      "nonCollectibleCount": 69,
       "nonCollectibleRevealedCount": 24
     },
     {
@@ -107,7 +107,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 72,
+      "nonCollectibleCount": 112,
       "nonCollectibleRevealedCount": 72
     },
     {
@@ -118,7 +118,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 110,
+      "nonCollectibleCount": 160,
       "nonCollectibleRevealedCount": 48
     },
     {
@@ -129,7 +129,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 52,
+      "nonCollectibleCount": 93,
       "nonCollectibleRevealedCount": 52
     },
     {
@@ -140,7 +140,7 @@
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
-      "nonCollectibleCount": 82,
+      "nonCollectibleCount": 125,
       "nonCollectibleRevealedCount": 82
     },
     {
@@ -151,7 +151,7 @@
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
-      "nonCollectibleCount": 53,
+      "nonCollectibleCount": 70,
       "nonCollectibleRevealedCount": 53
     },
     {
@@ -162,8 +162,8 @@
       "type": "expansion",
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
-      "nonCollectibleCount": 30,
-      "nonCollectibleRevealedCount": 30
+      "nonCollectibleCount": 84,
+      "nonCollectibleRevealedCount": 31
     },
     {
       "id": 20,
@@ -173,7 +173,7 @@
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
-      "nonCollectibleCount": 183,
+      "nonCollectibleCount": 195,
       "nonCollectibleRevealedCount": 15
     },
     {
@@ -184,7 +184,7 @@
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
-      "nonCollectibleCount": 19,
+      "nonCollectibleCount": 70,
       "nonCollectibleRevealedCount": 18
     },
     {
@@ -195,7 +195,7 @@
       "type": "adventure",
       "collectibleCount": 31,
       "collectibleRevealedCount": 31,
-      "nonCollectibleCount": 170,
+      "nonCollectibleCount": 181,
       "nonCollectibleRevealedCount": 12
     },
     {
@@ -206,7 +206,7 @@
       "type": "expansion",
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
-      "nonCollectibleCount": 20,
+      "nonCollectibleCount": 59,
       "nonCollectibleRevealedCount": 20
     },
     {
@@ -217,7 +217,7 @@
       "type": "adventure",
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
-      "nonCollectibleCount": 114,
+      "nonCollectibleCount": 134,
       "nonCollectibleRevealedCount": 114
     },
     {
@@ -228,7 +228,7 @@
       "type": "",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
-      "nonCollectibleCount": 9,
+      "nonCollectibleCount": 15,
       "nonCollectibleRevealedCount": 9
     },
     {
@@ -239,7 +239,7 @@
       "type": "",
       "collectibleCount": 240,
       "collectibleRevealedCount": 240,
-      "nonCollectibleCount": 63,
+      "nonCollectibleCount": 157,
       "nonCollectibleRevealedCount": 63
     },
     {
@@ -250,7 +250,7 @@
       "type": "",
       "collectibleCount": 153,
       "collectibleRevealedCount": 153,
-      "nonCollectibleCount": 59,
+      "nonCollectibleCount": 118,
       "nonCollectibleRevealedCount": 57
     }
   ],
