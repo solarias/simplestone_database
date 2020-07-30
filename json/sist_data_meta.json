@@ -1,17 +1,6 @@
 {
   "sets": [
     {
-      "id": 1463,
-      "name": "수습 악마사냥꾼",
-      "slug": "demonhunter-initiate",
-      "releaseDate": null,
-      "type": "",
-      "collectibleCount": 20,
-      "collectibleRevealedCount": 20,
-      "nonCollectibleCount": 3,
-      "nonCollectibleRevealedCount": 3
-    },
-    {
       "id": 1443,
       "name": "스칼로맨스 아카데미",
       "slug": "scholomance-academy",
@@ -21,6 +10,17 @@
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 54,
       "nonCollectibleRevealedCount": 23
+    },
+    {
+      "id": 1463,
+      "name": "수습 악마사냥꾼",
+      "slug": "demonhunter-initiate",
+      "releaseDate": "2020-04-08",
+      "type": "base",
+      "collectibleCount": 20,
+      "collectibleRevealedCount": 20,
+      "nonCollectibleCount": 3,
+      "nonCollectibleRevealedCount": 3
     },
     {
       "id": 1414,
@@ -344,8 +344,8 @@
     {
       "slug": "standard",
       "cardSets": [
-        "demonhunter-initiate",
         "scholomance-academy",
+        "demonhunter-initiate",
         "ashes-of-outland",
         "galakronds-awakening",
         "descent-of-dragons",
@@ -359,8 +359,8 @@
     {
       "slug": "wild",
       "cardSets": [
-        "demonhunter-initiate",
         "scholomance-academy",
+        "demonhunter-initiate",
         "ashes-of-outland",
         "galakronds-awakening",
         "descent-of-dragons",
