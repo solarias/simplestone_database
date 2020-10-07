@@ -1848,6 +1848,13 @@
       "name": "부가 퀘스트",
       "refText": "완료하면 보상을 얻습니다.",
       "text": "완료하면 보상을 얻습니다."
+    },
+    {
+      "id": 92,
+      "slug": "start-of-combat",
+      "name": "기선 제압",
+      "refText": "전투가 시작될 때 효과가 발동합니다.",
+      "text": "전투가 시작될 때 효과가 발동합니다."
     }
   ],
   "filterableFields": [
