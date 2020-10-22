@@ -9,7 +9,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 165,
-      "nonCollectibleRevealedCount": 23
+      "nonCollectibleRevealedCount": 24
     },
     {
       "id": 1463,
@@ -63,8 +63,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 37,
-      "nonCollectibleRevealedCount": 35
+      "nonCollectibleCount": 49,
+      "nonCollectibleRevealedCount": 47
     },
     {
       "id": 1130,
@@ -74,8 +74,8 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 39,
-      "nonCollectibleRevealedCount": 36
+      "nonCollectibleCount": 54,
+      "nonCollectibleRevealedCount": 51
     },
     {
       "id": 1129,
@@ -85,7 +85,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 29,
+      "nonCollectibleCount": 30,
       "nonCollectibleRevealedCount": 29
     },
     {
@@ -107,8 +107,8 @@
       "type": "expansion",
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
-      "nonCollectibleCount": 24,
-      "nonCollectibleRevealedCount": 24
+      "nonCollectibleCount": 36,
+      "nonCollectibleRevealedCount": 36
     },
     {
       "id": 1004,
@@ -118,8 +118,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 72,
-      "nonCollectibleRevealedCount": 72
+      "nonCollectibleCount": 95,
+      "nonCollectibleRevealedCount": 94
     },
     {
       "id": 1001,
@@ -184,8 +184,8 @@
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
-      "nonCollectibleCount": 183,
-      "nonCollectibleRevealedCount": 15
+      "nonCollectibleCount": 184,
+      "nonCollectibleRevealedCount": 16
     },
     {
       "id": 15,
@@ -1601,6 +1601,11 @@
       "slug": "arena",
       "id": 3,
       "name": "현재 투기장 카드"
+    },
+    {
+      "slug": "duels",
+      "id": 4,
+      "name": "현재 결투 카드"
     }
   ],
   "keywords": [
