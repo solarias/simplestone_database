@@ -1,6 +1,17 @@
 {
   "sets": [
     {
+      "id": 1466,
+      "name": "광기의 다크문 축제",
+      "slug": "madness-at-the-darkmoon-faire",
+      "releaseDate": "2020-11-17",
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 14,
+      "nonCollectibleCount": 121,
+      "nonCollectibleRevealedCount": 6
+    },
+    {
       "id": 1443,
       "name": "스칼로맨스 아카데미",
       "slug": "scholomance-academy",
@@ -344,6 +355,7 @@
     {
       "slug": "standard",
       "cardSets": [
+        "madness-at-the-darkmoon-faire",
         "scholomance-academy",
         "demonhunter-initiate",
         "ashes-of-outland",
@@ -359,6 +371,7 @@
     {
       "slug": "wild",
       "cardSets": [
+        "madness-at-the-darkmoon-faire",
         "scholomance-academy",
         "demonhunter-initiate",
         "ashes-of-outland",
@@ -1853,6 +1866,13 @@
       "name": "부가 퀘스트",
       "refText": "완료하면 보상을 얻습니다.",
       "text": "완료하면 보상을 얻습니다."
+    },
+    {
+      "id": 91,
+      "slug": "corrupt",
+      "name": "타락",
+      "refText": "더 높은 비용의 카드를 낸 후에 손에서 강화됩니다.",
+      "text": "더 높은 비용의 카드를 낸 후에 손에서 강화됩니다."
     },
     {
       "id": 92,
