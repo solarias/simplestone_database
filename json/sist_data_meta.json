@@ -7,7 +7,7 @@
       "releaseDate": "2020-11-17",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 32,
+      "collectibleRevealedCount": 34,
       "nonCollectibleCount": 121,
       "nonCollectibleRevealedCount": 27
     },
@@ -1635,7 +1635,7 @@
       "slug": "spellpower",
       "name": "주문 공격력",
       "refText": "주문 카드가 추가 피해를 줍니다.",
-      "text": "주문 카드가 {0}의 추가 피해를 줍니다."
+      "text": "주문 카드가 의 추가 피해를 줍니다."
     },
     {
       "id": 3,
@@ -1844,8 +1844,8 @@
       "id": 79,
       "slug": "empower",
       "name": "기원",
-      "refText": "갈라크론드의 힘을 사용합니다. ",
-      "text": "갈라크론드의 힘을 사용합니다. "
+      "refText": "갈라크론드의 힘을 사용합니다.",
+      "text": "갈라크론드의 힘을 사용합니다."
     },
     {
       "id": 86,
