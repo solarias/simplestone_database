@@ -19,7 +19,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 165,
+      "nonCollectibleCount": 176,
       "nonCollectibleRevealedCount": 24
     },
     {
@@ -118,8 +118,8 @@
       "type": "expansion",
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
-      "nonCollectibleCount": 36,
-      "nonCollectibleRevealedCount": 36
+      "nonCollectibleCount": 35,
+      "nonCollectibleRevealedCount": 35
     },
     {
       "id": 1004,
