@@ -7,9 +7,9 @@
       "type": "expansion",
       "name": "광기의 다크문 축제",
       "collectibleCount": 170,
-      "collectibleRevealedCount": 135,
+      "collectibleRevealedCount": 170,
       "nonCollectibleCount": 267,
-      "nonCollectibleRevealedCount": 56
+      "nonCollectibleRevealedCount": 132
     },
     {
       "id": 1443,
@@ -20,7 +20,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 176,
-      "nonCollectibleRevealedCount": 24
+      "nonCollectibleRevealedCount": 25
     },
     {
       "id": 1463,
@@ -141,7 +141,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 110,
-      "nonCollectibleRevealedCount": 48
+      "nonCollectibleRevealedCount": 49
     },
     {
       "id": 27,
