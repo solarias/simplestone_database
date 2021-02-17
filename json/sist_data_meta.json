@@ -2,10 +2,9 @@
   "sets": [
     {
       "id": 1466,
-      "slug": "madness-at-the-darkmoon-faire",
-      "releaseDate": "2020-11-17",
-      "type": "expansion",
       "name": "광기의 다크문 축제",
+      "slug": "madness-at-the-darkmoon-faire",
+      "type": "expansion",
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 267,
@@ -13,10 +12,9 @@
     },
     {
       "id": 1443,
-      "slug": "scholomance-academy",
-      "releaseDate": "2020-08-06",
-      "type": "expansion",
       "name": "스칼로맨스 아카데미",
+      "slug": "scholomance-academy",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 176,
@@ -24,10 +22,9 @@
     },
     {
       "id": 1463,
-      "slug": "demonhunter-initiate",
-      "releaseDate": "2020-04-08",
-      "type": "base",
       "name": "수습 악마사냥꾼",
+      "slug": "demonhunter-initiate",
+      "type": "base",
       "collectibleCount": 20,
       "collectibleRevealedCount": 20,
       "nonCollectibleCount": 3,
@@ -35,10 +32,9 @@
     },
     {
       "id": 1414,
-      "slug": "ashes-of-outland",
-      "releaseDate": "2020-04-07",
-      "type": "expansion",
       "name": "황폐한 아웃랜드",
+      "slug": "ashes-of-outland",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 63,
@@ -46,10 +42,9 @@
     },
     {
       "id": 1403,
-      "slug": "galakronds-awakening",
-      "releaseDate": "2020-01-15",
-      "type": "adventure",
       "name": "갈라크론드의 부활",
+      "slug": "galakronds-awakening",
+      "type": "adventure",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
       "nonCollectibleCount": 10,
@@ -57,10 +52,9 @@
     },
     {
       "id": 1347,
-      "slug": "descent-of-dragons",
-      "releaseDate": "2019-12-10",
-      "type": "expansion",
       "name": "용의 강림",
+      "slug": "descent-of-dragons",
+      "type": "expansion",
       "collectibleCount": 140,
       "collectibleRevealedCount": 140,
       "nonCollectibleCount": 59,
@@ -68,10 +62,9 @@
     },
     {
       "id": 1158,
-      "slug": "saviors-of-uldum",
-      "releaseDate": "2019-08-06",
-      "type": "expansion",
       "name": "울둠의 구원자",
+      "slug": "saviors-of-uldum",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 50,
@@ -79,10 +72,9 @@
     },
     {
       "id": 1130,
-      "slug": "rise-of-shadows",
-      "releaseDate": "2019-04-09",
-      "type": "expansion",
       "name": "어둠의 반격",
+      "slug": "rise-of-shadows",
+      "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 54,
@@ -90,10 +82,9 @@
     },
     {
       "id": 1129,
-      "slug": "rastakhans-rumble",
-      "releaseDate": "2018-12-04",
-      "type": "expansion",
       "name": "라스타칸의 대난투",
+      "slug": "rastakhans-rumble",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 30,
@@ -101,10 +92,9 @@
     },
     {
       "id": 1127,
-      "slug": "the-boomsday-project",
-      "releaseDate": "2018-07-10",
-      "type": "expansion",
       "name": "박사 붐의 폭심만만 프로젝트",
+      "slug": "the-boomsday-project",
+      "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 20,
@@ -112,10 +102,9 @@
     },
     {
       "id": 1125,
-      "slug": "the-witchwood",
-      "releaseDate": "2018-04-01",
-      "type": "expansion",
       "name": "마녀숲",
+      "slug": "the-witchwood",
+      "type": "expansion",
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
       "nonCollectibleCount": 35,
@@ -123,10 +112,9 @@
     },
     {
       "id": 1004,
-      "slug": "kobolds-and-catacombs",
-      "releaseDate": "2017-12-01",
-      "type": "expansion",
       "name": "코볼트와 지하 미궁",
+      "slug": "kobolds-and-catacombs",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 95,
@@ -134,10 +122,9 @@
     },
     {
       "id": 1001,
-      "slug": "knights-of-the-frozen-throne",
-      "releaseDate": "2017-08-01",
-      "type": "expansion",
       "name": "얼어붙은 왕좌의 기사들",
+      "slug": "knights-of-the-frozen-throne",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 110,
@@ -145,10 +132,9 @@
     },
     {
       "id": 27,
-      "slug": "journey-to-ungoro",
-      "releaseDate": "2017-04-01",
-      "type": "expansion",
       "name": "운고로를 향한 여정",
+      "slug": "journey-to-ungoro",
+      "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 52,
@@ -156,10 +142,9 @@
     },
     {
       "id": 25,
-      "slug": "mean-streets-of-gadgetzan",
-      "releaseDate": "2016-12-01",
-      "type": "expansion",
       "name": "비열한 거리의 가젯잔",
+      "slug": "mean-streets-of-gadgetzan",
+      "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
       "nonCollectibleCount": 82,
@@ -167,10 +152,9 @@
     },
     {
       "id": 23,
-      "slug": "one-night-in-karazhan",
-      "releaseDate": "2016-08-01",
-      "type": "adventure",
       "name": "한여름 밤의 카라잔",
+      "slug": "one-night-in-karazhan",
+      "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
       "nonCollectibleCount": 53,
@@ -178,10 +162,9 @@
     },
     {
       "id": 21,
-      "slug": "whispers-of-the-old-gods",
-      "releaseDate": "2016-04-01",
-      "type": "expansion",
       "name": "고대 신의 속삭임",
+      "slug": "whispers-of-the-old-gods",
+      "type": "expansion",
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
       "nonCollectibleCount": 30,
@@ -189,10 +172,9 @@
     },
     {
       "id": 20,
-      "slug": "league-of-explorers",
-      "releaseDate": "2015-11-01",
-      "type": "adventure",
       "name": "탐험가 연맹",
+      "slug": "league-of-explorers",
+      "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
       "nonCollectibleCount": 184,
@@ -200,10 +182,9 @@
     },
     {
       "id": 15,
-      "slug": "the-grand-tournament",
-      "releaseDate": "2015-08-01",
-      "type": "expansion",
       "name": "대 마상시합",
+      "slug": "the-grand-tournament",
+      "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
       "nonCollectibleCount": 19,
@@ -211,10 +192,9 @@
     },
     {
       "id": 14,
-      "slug": "blackrock-mountain",
-      "releaseDate": "2015-04-01",
-      "type": "adventure",
       "name": "검은바위 산",
+      "slug": "blackrock-mountain",
+      "type": "adventure",
       "collectibleCount": 31,
       "collectibleRevealedCount": 31,
       "nonCollectibleCount": 170,
@@ -222,10 +202,9 @@
     },
     {
       "id": 13,
-      "slug": "goblins-vs-gnomes",
-      "releaseDate": "2014-12-01",
-      "type": "expansion",
       "name": "고블린 대 노움",
+      "slug": "goblins-vs-gnomes",
+      "type": "expansion",
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
       "nonCollectibleCount": 20,
@@ -233,10 +212,9 @@
     },
     {
       "id": 12,
-      "slug": "naxxramas",
-      "releaseDate": "2014-06-01",
-      "type": "adventure",
       "name": "낙스라마스의 저주",
+      "slug": "naxxramas",
+      "type": "adventure",
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
       "nonCollectibleCount": 114,
@@ -244,10 +222,9 @@
     },
     {
       "id": 4,
-      "slug": "hall-of-fame",
-      "releaseDate": null,
-      "type": "",
       "name": "명예의 전당",
+      "slug": "hall-of-fame",
+      "type": "",
       "collectibleCount": 35,
       "collectibleRevealedCount": 35,
       "nonCollectibleCount": 9,
@@ -255,10 +232,9 @@
     },
     {
       "id": 3,
-      "slug": "classic",
-      "releaseDate": null,
-      "type": "",
       "name": "오리지널",
+      "slug": "classic",
+      "type": "",
       "collectibleCount": 240,
       "collectibleRevealedCount": 240,
       "nonCollectibleCount": 63,
@@ -266,10 +242,9 @@
     },
     {
       "id": 2,
-      "slug": "basic",
-      "releaseDate": null,
-      "type": "",
       "name": "기본",
+      "slug": "basic",
+      "type": "",
       "collectibleCount": 153,
       "collectibleRevealedCount": 153,
       "nonCollectibleCount": 59,
@@ -280,6 +255,7 @@
     {
       "slug": "phoenix",
       "year": 2020,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt213931027a138c86/6026e73c02ccfb4d0f671c85/icon_year_phoenix.svg",
       "cardSets": [
         "madness-at-the-darkmoon-faire",
         "scholomance-academy",
@@ -292,6 +268,7 @@
     {
       "slug": "dragon",
       "year": 2019,
+      "svg": null,
       "cardSets": [
         "galakronds-awakening",
         "descent-of-dragons",
@@ -305,6 +282,7 @@
     {
       "slug": "raven",
       "year": 2018,
+      "svg": null,
       "cardSets": [
         "rastakhans-rumble",
         "the-boomsday-project",
@@ -317,6 +295,7 @@
     {
       "slug": "mammoth",
       "year": 2017,
+      "svg": null,
       "cardSets": [
         "kobolds-and-catacombs",
         "knights-of-the-frozen-throne",
@@ -329,6 +308,7 @@
     {
       "slug": "kraken",
       "year": 2016,
+      "svg": null,
       "cardSets": [
         "mean-streets-of-gadgetzan",
         "one-night-in-karazhan",
@@ -341,6 +321,7 @@
     {
       "slug": "classic",
       "year": 2015,
+      "svg": null,
       "cardSets": [
         "league-of-explorers",
         "the-grand-tournament",
@@ -348,7 +329,7 @@
         "goblins-vs-gnomes",
         "naxxramas"
       ],
-      "name": "오리지널 세트",
+      "name": "Classic",
       "standard": false,
       "yearRange": "2014-2015",
       "icon": "icon_cardset_classic"
@@ -1491,61 +1472,135 @@
       "slug": "demonhunter",
       "id": 14,
       "name": "악마사냥꾼",
-      "cardId": 56550
+      "cardId": 56550,
+      "heroPowerCardId": 60224,
+      "alternateHeroCardIds": [
+        60238,
+        62491
+      ]
     },
     {
       "slug": "druid",
       "id": 2,
       "name": "드루이드",
-      "cardId": 274
+      "cardId": 274,
+      "heroPowerCardId": 1123,
+      "alternateHeroCardIds": [
+        50484,
+        56358,
+        57761,
+        60375
+      ]
     },
     {
       "slug": "hunter",
       "id": 3,
       "name": "사냥꾼",
-      "cardId": 31
+      "cardId": 31,
+      "heroPowerCardId": 229,
+      "alternateHeroCardIds": [
+        2826,
+        57759,
+        60335,
+        61597
+      ]
     },
     {
       "slug": "mage",
       "id": 4,
       "name": "마법사",
-      "cardId": 637
+      "cardId": 637,
+      "heroPowerCardId": 807,
+      "alternateHeroCardIds": [
+        2829,
+        39117,
+        57765,
+        61598,
+        62772,
+        64845,
+        64846,
+        64847
+      ]
     },
     {
       "slug": "paladin",
       "id": 5,
       "name": "성기사",
-      "cardId": 671
+      "cardId": 671,
+      "heroPowerCardId": 472,
+      "alternateHeroCardIds": [
+        2827,
+        46116,
+        53187,
+        57757,
+        61886
+      ]
     },
     {
       "slug": "priest",
       "id": 6,
       "name": "사제",
-      "cardId": 813
+      "cardId": 813,
+      "heroPowerCardId": 479,
+      "alternateHeroCardIds": [
+        41887,
+        54816,
+        57767
+      ]
     },
     {
       "slug": "rogue",
       "id": 7,
       "name": "도적",
-      "cardId": 930
+      "cardId": 930,
+      "heroPowerCardId": 730,
+      "alternateHeroCardIds": [
+        40195,
+        57755
+      ]
     },
     {
       "slug": "shaman",
       "id": 8,
       "name": "주술사",
-      "cardId": 1066
+      "cardId": 1066,
+      "heroPowerCardId": 687,
+      "alternateHeroCardIds": [
+        40183,
+        53237,
+        55963,
+        57753,
+        60673,
+        64848,
+        64849,
+        64850
+      ]
     },
     {
       "slug": "warlock",
       "id": 9,
       "name": "흑마법사",
-      "cardId": 893
+      "cardId": 893,
+      "heroPowerCardId": 300,
+      "alternateHeroCardIds": [
+        47817,
+        51834,
+        57763,
+        64685
+      ]
     },
     {
       "slug": "warrior",
       "id": 10,
       "name": "전사",
-      "cardId": 7
+      "cardId": 7,
+      "heroPowerCardId": 725,
+      "alternateHeroCardIds": [
+        2828,
+        57751,
+        58787,
+        61923
+      ]
     },
     {
       "slug": "neutral",
