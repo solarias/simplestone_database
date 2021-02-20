@@ -1,13 +1,23 @@
 {
   "sets": [
     {
+      "id": 1525,
+      "name": "불모의 땅",
+      "slug": "forged-in-the-barrens",
+      "type": "expansion",
+      "collectibleCount": 136,
+      "collectibleRevealedCount": 12,
+      "nonCollectibleCount": 258,
+      "nonCollectibleRevealedCount": 8
+    },
+    {
       "id": 1466,
       "name": "광기의 다크문 축제",
       "slug": "madness-at-the-darkmoon-faire",
       "type": "expansion",
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
-      "nonCollectibleCount": 267,
+      "nonCollectibleCount": 347,
       "nonCollectibleRevealedCount": 132
     },
     {
@@ -253,6 +263,17 @@
   ],
   "setGroups": [
     {
+      "slug": "gryphon",
+      "year": 2021,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/bltd467577e4baabcf1/600740743e8106106f1bc575/year_icon_gryphon.svg",
+      "cardSets": [
+        "forged-in-the-barrens"
+      ],
+      "name": "그리핀의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearofthegryphon"
+    },
+    {
       "slug": "phoenix",
       "year": 2020,
       "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt213931027a138c86/602700575e4a6c4d10dea67e/icon_year_phoenix.svg",
@@ -337,6 +358,7 @@
     {
       "slug": "standard",
       "cardSets": [
+        "forged-in-the-barrens",
         "madness-at-the-darkmoon-faire",
         "scholomance-academy",
         "demonhunter-initiate",
@@ -353,6 +375,7 @@
     {
       "slug": "wild",
       "cardSets": [
+        "forged-in-the-barrens",
         "madness-at-the-darkmoon-faire",
         "scholomance-academy",
         "demonhunter-initiate",
@@ -1655,6 +1678,43 @@
       "name": "모두"
     }
   ],
+  "spellSchools": [
+    {
+      "slug": "arcane",
+      "id": 1,
+      "name": "비전"
+    },
+    {
+      "slug": "fire",
+      "id": 2,
+      "name": "화염"
+    },
+    {
+      "slug": "frost",
+      "id": 3,
+      "name": "냉기"
+    },
+    {
+      "slug": "nature",
+      "id": 4,
+      "name": "자연"
+    },
+    {
+      "slug": "holy",
+      "id": 5,
+      "name": "신성"
+    },
+    {
+      "slug": "shadow",
+      "id": 6,
+      "name": "암흑"
+    },
+    {
+      "slug": "fel",
+      "id": 7,
+      "name": "지옥"
+    }
+  ],
   "gameModes": [
     {
       "slug": "constructed",
@@ -1936,12 +1996,20 @@
       "name": "기선 제압",
       "refText": "전투가 시작될 때 효과가 발동합니다.",
       "text": "전투가 시작될 때 효과가 발동합니다."
+    },
+    {
+      "id": 99,
+      "slug": "frenzy",
+      "name": "광폭",
+      "refText": "피해를 받고 생존한 후에 발동하는 일회용 효과입니다.",
+      "text": "피해를 받고 생존한 후에 발동하는 일회용 효과입니다."
     }
   ],
   "filterableFields": [
     "collectible",
     "cardSetId",
     "minionTypeId",
+    "spellSchoolId",
     "rarityId",
     "cardTypeId",
     "manaCost",
