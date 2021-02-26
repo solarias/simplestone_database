@@ -1,6 +1,16 @@
 {
   "sets": [
     {
+      "id": 1637,
+      "name": "핵심",
+      "slug": "core",
+      "type": "",
+      "collectibleCount": 235,
+      "collectibleRevealedCount": 235,
+      "nonCollectibleCount": 3,
+      "nonCollectibleRevealedCount": 2
+    },
+    {
       "id": 1525,
       "name": "불모의 땅",
       "slug": "forged-in-the-barrens",
@@ -117,8 +127,8 @@
       "type": "expansion",
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
-      "nonCollectibleCount": 35,
-      "nonCollectibleRevealedCount": 35
+      "nonCollectibleCount": 34,
+      "nonCollectibleRevealedCount": 34
     },
     {
       "id": 1004,
@@ -248,7 +258,7 @@
       "collectibleCount": 240,
       "collectibleRevealedCount": 240,
       "nonCollectibleCount": 63,
-      "nonCollectibleRevealedCount": 63
+      "nonCollectibleRevealedCount": 62
     },
     {
       "id": 2,
@@ -358,6 +368,7 @@
     {
       "slug": "standard",
       "cardSets": [
+        "core",
         "forged-in-the-barrens",
         "madness-at-the-darkmoon-faire",
         "scholomance-academy",
@@ -375,6 +386,7 @@
     {
       "slug": "wild",
       "cardSets": [
+        "core",
         "forged-in-the-barrens",
         "madness-at-the-darkmoon-faire",
         "scholomance-academy",
@@ -1921,6 +1933,13 @@
       "text": "내 턴에, 공격하는 대상의 남은 생명력보다 큰 피해를 주면 효과가 발동합니다."
     },
     {
+      "id": 64,
+      "slug": "startofgamekeyword",
+      "name": "개전",
+      "refText": "첫 번째 턴이 시작하기 전에 효과가 발동합니다.",
+      "text": "첫 번째 턴이 시작하기 전에 효과가 발동합니다."
+    },
+    {
       "id": 66,
       "slug": "modular",
       "name": "합체",
@@ -2003,6 +2022,13 @@
       "name": "광폭",
       "refText": "피해를 받고 생존한 후에 발동하는 일회용 효과입니다.",
       "text": "피해를 받고 생존한 후에 발동하는 일회용 효과입니다."
+    },
+    {
+      "id": 104,
+      "slug": "spellpowernature",
+      "name": "자연 주문 공격력",
+      "refText": "자연 주문 카드가 추가 피해를 줍니다.",
+      "text": "자연 주문 카드가 의 추가 피해를 줍니다."
     }
   ],
   "filterableFields": [
