@@ -6,7 +6,7 @@
       "slug": "core",
       "type": "",
       "collectibleCount": 235,
-      "collectibleRevealedCount": 235,
+      "collectibleRevealedCount": 233,
       "nonCollectibleCount": 3,
       "nonCollectibleRevealedCount": 2
     },
@@ -15,9 +15,9 @@
       "name": "불모의 땅",
       "slug": "forged-in-the-barrens",
       "type": "expansion",
-      "collectibleCount": 136,
-      "collectibleRevealedCount": 17,
-      "nonCollectibleCount": 258,
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 19,
+      "nonCollectibleCount": 256,
       "nonCollectibleRevealedCount": 12
     },
     {
