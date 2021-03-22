@@ -6,9 +6,9 @@
       "slug": "core",
       "type": "",
       "collectibleCount": 235,
-      "collectibleRevealedCount": 233,
+      "collectibleRevealedCount": 235,
       "nonCollectibleCount": 3,
-      "nonCollectibleRevealedCount": 2
+      "nonCollectibleRevealedCount": 3
     },
     {
       "id": 1525,
@@ -16,9 +16,9 @@
       "slug": "forged-in-the-barrens",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 68,
+      "collectibleRevealedCount": 135,
       "nonCollectibleCount": 256,
-      "nonCollectibleRevealedCount": 32
+      "nonCollectibleRevealedCount": 81
     },
     {
       "id": 1466,
@@ -28,7 +28,7 @@
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 347,
-      "nonCollectibleRevealedCount": 132
+      "nonCollectibleRevealedCount": 135
     },
     {
       "id": 1443,
