@@ -1,14 +1,17 @@
 {
   "sets": [
     {
-      "id": 1637,
-      "name": "핵심",
-      "slug": "core",
+      "id": 1635,
+      "name": "유산",
+      "slug": "legacy",
+      "aliasSetIds": [
+        3
+      ],
       "type": "",
-      "collectibleCount": 235,
-      "collectibleRevealedCount": 235,
-      "nonCollectibleCount": 3,
-      "nonCollectibleRevealedCount": 3
+      "collectibleCount": 384,
+      "collectibleRevealedCount": 384,
+      "nonCollectibleCount": 123,
+      "nonCollectibleRevealedCount": 123
     },
     {
       "id": 1525,
@@ -19,6 +22,26 @@
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 256,
       "nonCollectibleRevealedCount": 81
+    },
+    {
+      "id": 1646,
+      "name": "오리지널 카드",
+      "slug": "classic-cards",
+      "type": "",
+      "collectibleCount": 382,
+      "collectibleRevealedCount": 382,
+      "nonCollectibleCount": 87,
+      "nonCollectibleRevealedCount": 81
+    },
+    {
+      "id": 1637,
+      "name": "핵심",
+      "slug": "core",
+      "type": "",
+      "collectibleCount": 235,
+      "collectibleRevealedCount": 235,
+      "nonCollectibleCount": 4,
+      "nonCollectibleRevealedCount": 4
     },
     {
       "id": 1466,
@@ -37,7 +60,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 176,
+      "nonCollectibleCount": 178,
       "nonCollectibleRevealedCount": 25
     },
     {
@@ -177,7 +200,7 @@
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
-      "nonCollectibleCount": 53,
+      "nonCollectibleCount": 54,
       "nonCollectibleRevealedCount": 53
     },
     {
@@ -207,7 +230,7 @@
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
-      "nonCollectibleCount": 19,
+      "nonCollectibleCount": 20,
       "nonCollectibleRevealedCount": 18
     },
     {
@@ -237,38 +260,8 @@
       "type": "adventure",
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
-      "nonCollectibleCount": 114,
-      "nonCollectibleRevealedCount": 114
-    },
-    {
-      "id": 4,
-      "name": "명예의 전당",
-      "slug": "hall-of-fame",
-      "type": "",
-      "collectibleCount": 35,
-      "collectibleRevealedCount": 35,
-      "nonCollectibleCount": 9,
-      "nonCollectibleRevealedCount": 9
-    },
-    {
-      "id": 3,
-      "name": "오리지널",
-      "slug": "classic",
-      "type": "",
-      "collectibleCount": 240,
-      "collectibleRevealedCount": 240,
-      "nonCollectibleCount": 63,
-      "nonCollectibleRevealedCount": 63
-    },
-    {
-      "id": 2,
-      "name": "기본",
-      "slug": "basic",
-      "type": "",
-      "collectibleCount": 153,
-      "collectibleRevealedCount": 153,
-      "nonCollectibleCount": 59,
-      "nonCollectibleRevealedCount": 57
+      "nonCollectibleCount": 113,
+      "nonCollectibleRevealedCount": 113
     }
   ],
   "setGroups": [
@@ -307,7 +300,7 @@
         "rise-of-shadows"
       ],
       "name": "용의 해",
-      "standard": true,
+      "standard": false,
       "icon": "icon_cardset_yearofthedragon"
     },
     {
@@ -360,7 +353,7 @@
         "goblins-vs-gnomes",
         "naxxramas"
       ],
-      "name": "Classic",
+      "name": "정규력 이전",
       "standard": false,
       "yearRange": "2014-2015",
       "icon": "icon_cardset_classic"
@@ -368,26 +361,20 @@
     {
       "slug": "standard",
       "cardSets": [
-        "core",
         "forged-in-the-barrens",
+        "core",
         "madness-at-the-darkmoon-faire",
         "scholomance-academy",
-        "demonhunter-initiate",
-        "ashes-of-outland",
-        "galakronds-awakening",
-        "descent-of-dragons",
-        "saviors-of-uldum",
-        "rise-of-shadows",
-        "classic",
-        "basic"
+        "ashes-of-outland"
       ],
       "name": "정규 세트"
     },
     {
       "slug": "wild",
       "cardSets": [
-        "core",
+        "legacy",
         "forged-in-the-barrens",
+        "core",
         "madness-at-the-darkmoon-faire",
         "scholomance-academy",
         "demonhunter-initiate",
@@ -409,10 +396,7 @@
         "the-grand-tournament",
         "blackrock-mountain",
         "goblins-vs-gnomes",
-        "naxxramas",
-        "hall-of-fame",
-        "classic",
-        "basic"
+        "naxxramas"
       ],
       "name": "야생 카드"
     }
