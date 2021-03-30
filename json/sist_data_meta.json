@@ -5,13 +5,14 @@
       "name": "고전",
       "slug": "legacy",
       "aliasSetIds": [
-        3
+        3,
+        4
       ],
       "type": "",
-      "collectibleCount": 384,
-      "collectibleRevealedCount": 384,
-      "nonCollectibleCount": 123,
-      "nonCollectibleRevealedCount": 123
+      "collectibleCount": 418,
+      "collectibleRevealedCount": 418,
+      "nonCollectibleCount": 132,
+      "nonCollectibleRevealedCount": 132
     },
     {
       "id": 1525,
