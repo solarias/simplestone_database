@@ -9,10 +9,10 @@
         4
       ],
       "type": "",
-      "collectibleCount": 418,
-      "collectibleRevealedCount": 418,
-      "nonCollectibleCount": 132,
-      "nonCollectibleRevealedCount": 132
+      "collectibleCount": 417,
+      "collectibleRevealedCount": 417,
+      "nonCollectibleCount": 133,
+      "nonCollectibleRevealedCount": 133
     },
     {
       "id": 1525,
@@ -21,7 +21,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 256,
+      "nonCollectibleCount": 389,
       "nonCollectibleRevealedCount": 81
     },
     {
@@ -31,7 +31,7 @@
       "type": "",
       "collectibleCount": 382,
       "collectibleRevealedCount": 382,
-      "nonCollectibleCount": 87,
+      "nonCollectibleCount": 88,
       "nonCollectibleRevealedCount": 81
     },
     {
@@ -141,7 +141,7 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 21,
+      "nonCollectibleCount": 20,
       "nonCollectibleRevealedCount": 20
     },
     {
@@ -1550,6 +1550,11 @@
         4,
         5
       ]
+    },
+    {
+      "slug": "hero power",
+      "id": 10,
+      "name": "영웅 능력"
     }
   ],
   "rarities": [
@@ -1881,6 +1886,17 @@
       "slug": "all",
       "id": 26,
       "name": "모두",
+      "gameModes": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "slug": "quilboar",
+      "id": 43,
+      "name": "가시멧돼지",
       "gameModes": [
         1,
         2,
@@ -2395,6 +2411,16 @@
         1,
         4,
         5
+      ]
+    },
+    {
+      "id": 109,
+      "slug": "blood-gem",
+      "name": "혈석",
+      "refText": "아군 하수인에게 +1/+1을 부여하는 주문입니다.",
+      "text": "아군 하수인에게 +1/+1을 부여하는 주문입니다.",
+      "gameModes": [
+        2
       ]
     }
   ],
