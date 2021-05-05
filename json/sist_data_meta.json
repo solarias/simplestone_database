@@ -1554,7 +1554,10 @@
     {
       "slug": "hero power",
       "id": 10,
-      "name": "영웅 능력"
+      "name": "영웅 능력",
+      "gameModes": [
+        4
+      ]
     }
   ],
   "rarities": [
@@ -2297,7 +2300,8 @@
       "refText": "두 번 시전할 수 있습니다.",
       "text": "두 번 시전할 수 있습니다.",
       "gameModes": [
-        1
+        1,
+        4
       ]
     },
     {
