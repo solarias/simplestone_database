@@ -297,7 +297,7 @@
         "scholomance-academy",
         "ashes-of-outland"
       ],
-      "name": "불사조의 해",
+      "name": "",
       "standard": true,
       "icon": "icon_cardset_yearofthephoenix"
     },
@@ -311,7 +311,7 @@
         "saviors-of-uldum",
         "rise-of-shadows"
       ],
-      "name": "용의 해",
+      "name": "",
       "standard": false,
       "icon": "icon_cardset_yearofthedragon"
     },
@@ -324,7 +324,7 @@
         "the-boomsday-project",
         "the-witchwood"
       ],
-      "name": "까마귀의 해",
+      "name": "",
       "standard": false,
       "icon": "icon_cardset_yearoftheraven"
     },
@@ -337,7 +337,7 @@
         "knights-of-the-frozen-throne",
         "journey-to-ungoro"
       ],
-      "name": "매머드의 해",
+      "name": "",
       "standard": false,
       "icon": "icon_cardset_yearofthemammoth"
     },
@@ -350,7 +350,7 @@
         "one-night-in-karazhan",
         "whispers-of-the-old-gods"
       ],
-      "name": "크라켄의 해",
+      "name": "",
       "standard": false,
       "icon": "icon_cardset_yearofthekraken"
     },
@@ -419,22 +419,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "정규 및 야생"
+      "name": "Constructed"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "전장"
+      "name": "Battlegrounds"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "현재 투기장 카드"
+      "name": "Arena"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "현재 결투 카드"
+      "name": "Duels"
     },
     {
       "slug": "standard",
