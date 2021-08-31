@@ -21,7 +21,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 110,
+      "nonCollectibleCount": 173,
       "nonCollectibleRevealedCount": 64
     },
     {
@@ -2179,7 +2179,6 @@
       "text": "피해를 받지 않습니다.",
       "gameModes": [
         1,
-        2,
         4,
         5
       ]
@@ -2307,8 +2306,7 @@
       "refText": "내 턴에, 공격하는 대상의 남은 생명력보다 큰 피해를 주면 효과가 발동합니다.",
       "text": "내 턴에, 공격하는 대상의 남은 생명력보다 큰 피해를 주면 효과가 발동합니다.",
       "gameModes": [
-        1,
-        2
+        1
       ]
     },
     {
@@ -2498,6 +2496,16 @@
       "name": "혈석",
       "refText": "아군 하수인에게 +1/+1을 부여하는 주문입니다.",
       "text": "아군 하수인에게 +1/+1을 부여하는 주문입니다.",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 198,
+      "slug": "avenge",
+      "name": "복수 (X)",
+      "refText": "아군 하수인 X마리가 죽은 후에 효과가 발동합니다.",
+      "text": "아군 하수인 X마리가 죽은 후에 효과가 발동합니다.",
       "gameModes": [
         2
       ]
