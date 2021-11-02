@@ -30,9 +30,9 @@
       "slug": "united-in-stormwind",
       "type": "expansion",
       "collectibleCount": 170,
-      "collectibleRevealedCount": 166,
+      "collectibleRevealedCount": 170,
       "nonCollectibleCount": 235,
-      "nonCollectibleRevealedCount": 70
+      "nonCollectibleRevealedCount": 71
     },
     {
       "id": 1525,
@@ -449,8 +449,10 @@
   ],
   "arenaIds": [
     64197,
+    65705,
     65704,
     65702,
+    65700,
     65699,
     65692,
     65691,
@@ -461,6 +463,7 @@
     65677,
     65676,
     65655,
+    65645,
     65619,
     65610,
     65609,
@@ -474,6 +477,7 @@
     65603,
     65602,
     65601,
+    65599,
     65598,
     65597,
     65584,
