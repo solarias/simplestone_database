@@ -132,7 +132,7 @@
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 60,
-      "nonCollectibleRevealedCount": 51
+      "nonCollectibleRevealedCount": 50
     },
     {
       "id": 1129,
@@ -1974,7 +1974,8 @@
         1,
         2,
         4,
-        5
+        5,
+        7
       ]
     },
     {
