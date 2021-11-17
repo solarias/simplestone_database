@@ -25,13 +25,23 @@
       "nonCollectibleRevealedCount": 132
     },
     {
+      "id": 1626,
+      "name": "알터랙 계곡",
+      "slug": "fractured-in-alterac-valley",
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 10,
+      "nonCollectibleCount": 65,
+      "nonCollectibleRevealedCount": 5
+    },
+    {
       "id": 1578,
       "name": "스톰윈드",
       "slug": "united-in-stormwind",
       "type": "expansion",
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
-      "nonCollectibleCount": 235,
+      "nonCollectibleCount": 311,
       "nonCollectibleRevealedCount": 71
     },
     {
@@ -131,8 +141,8 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 60,
-      "nonCollectibleRevealedCount": 50
+      "nonCollectibleCount": 59,
+      "nonCollectibleRevealedCount": 49
     },
     {
       "id": 1129,
@@ -281,6 +291,7 @@
       "year": 2021,
       "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/bltd467577e4baabcf1/600740743e8106106f1bc575/year_icon_gryphon.svg",
       "cardSets": [
+        "fractured-in-alterac-valley",
         "united-in-stormwind",
         "forged-in-the-barrens"
       ],
@@ -374,6 +385,7 @@
       "slug": "standard",
       "cardSets": [
         "core",
+        "fractured-in-alterac-valley",
         "united-in-stormwind",
         "forged-in-the-barrens",
         "madness-at-the-darkmoon-faire",
@@ -387,6 +399,7 @@
       "cardSets": [
         "core",
         "legacy",
+        "fractured-in-alterac-valley",
         "united-in-stormwind",
         "forged-in-the-barrens",
         "madness-at-the-darkmoon-faire",
@@ -2556,6 +2569,17 @@
         1,
         2,
         4,
+        5
+      ]
+    },
+    {
+      "id": 100,
+      "slug": "honorablekill",
+      "name": "명예로운 일격",
+      "refText": "내 턴에, 공격하는 대상의 남은 생명력만큼 피해를 주면 효과가 발동합니다.",
+      "text": "내 턴에, 공격하는 대상의 남은 생명력만큼 피해를 주면 효과가 발동합니다.",
+      "gameModes": [
+        1,
         5
       ]
     },
