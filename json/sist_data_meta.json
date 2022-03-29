@@ -6,9 +6,9 @@
       "slug": "voyage-to-the-sunken-city",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 79,
+      "collectibleRevealedCount": 82,
       "nonCollectibleCount": 66,
-      "nonCollectibleRevealedCount": 50
+      "nonCollectibleRevealedCount": 53
     },
     {
       "id": 1646,
@@ -190,7 +190,7 @@
       "slug": "kobolds-and-catacombs",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 135,
+      "collectibleRevealedCount": 134,
       "nonCollectibleCount": 100,
       "nonCollectibleRevealedCount": 94
     },
