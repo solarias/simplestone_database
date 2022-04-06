@@ -6,9 +6,9 @@
       "slug": "voyage-to-the-sunken-city",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 89,
+      "collectibleRevealedCount": 135,
       "nonCollectibleCount": 66,
-      "nonCollectibleRevealedCount": 54
+      "nonCollectibleRevealedCount": 65
     },
     {
       "id": 1646,
@@ -296,6 +296,17 @@
     }
   ],
   "setGroups": [
+    {
+      "slug": "hydra",
+      "year": 2022,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt63ce92e33c79ee7f/622902fe04503350d255bca6/YotH_SVG-01-01.svg",
+      "cardSets": [
+        "voyage-to-the-sunken-city"
+      ],
+      "name": "히드라의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearofthehydra"
+    },
     {
       "slug": "gryphon",
       "year": 2021,
