@@ -5,10 +5,10 @@
       "name": "가라앉은 도시로의 항해",
       "slug": "voyage-to-the-sunken-city",
       "type": "expansion",
-      "collectibleCount": 135,
-      "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 66,
-      "nonCollectibleRevealedCount": 65
+      "collectibleCount": 170,
+      "collectibleRevealedCount": 140,
+      "nonCollectibleCount": 518,
+      "nonCollectibleRevealedCount": 73
     },
     {
       "id": 1646,
@@ -27,7 +27,7 @@
       "type": "",
       "collectibleCount": 250,
       "collectibleRevealedCount": 250,
-      "nonCollectibleCount": 14,
+      "nonCollectibleCount": 18,
       "nonCollectibleRevealedCount": 3
     },
     {
@@ -71,7 +71,7 @@
       "type": "expansion",
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
-      "nonCollectibleCount": 662,
+      "nonCollectibleCount": 665,
       "nonCollectibleRevealedCount": 94
     },
     {
