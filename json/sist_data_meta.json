@@ -11,16 +11,6 @@
       "nonCollectibleRevealedCount": 79
     },
     {
-      "id": 1646,
-      "name": "오리지널 카드",
-      "slug": "classic-cards",
-      "type": "",
-      "collectibleCount": 382,
-      "collectibleRevealedCount": 382,
-      "nonCollectibleCount": 96,
-      "nonCollectibleRevealedCount": 81
-    },
-    {
       "id": 1637,
       "name": "핵심",
       "slug": "core",
@@ -73,6 +63,16 @@
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 665,
       "nonCollectibleRevealedCount": 94
+    },
+    {
+      "id": 1646,
+      "name": "오리지널 카드",
+      "slug": "classic-cards",
+      "type": "",
+      "collectibleCount": 382,
+      "collectibleRevealedCount": 382,
+      "nonCollectibleCount": 96,
+      "nonCollectibleRevealedCount": 81
     },
     {
       "id": 1466,
