@@ -42,7 +42,7 @@
       "collectibleCount": 425,
       "collectibleRevealedCount": 418,
       "nonCollectibleCount": 149,
-      "nonCollectibleRevealedCount": 138
+      "nonCollectibleRevealedCount": 146
     },
     {
       "id": 1626,
@@ -92,7 +92,7 @@
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 358,
-      "nonCollectibleRevealedCount": 136
+      "nonCollectibleRevealedCount": 138
     },
     {
       "id": 1443,
@@ -122,7 +122,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 79,
-      "nonCollectibleRevealedCount": 57
+      "nonCollectibleRevealedCount": 58
     },
     {
       "id": 1403,
@@ -152,7 +152,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 55,
-      "nonCollectibleRevealedCount": 46
+      "nonCollectibleRevealedCount": 47
     },
     {
       "id": 1130,
@@ -162,7 +162,7 @@
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 68,
-      "nonCollectibleRevealedCount": 54
+      "nonCollectibleRevealedCount": 55
     },
     {
       "id": 1129,
@@ -182,7 +182,7 @@
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 33,
-      "nonCollectibleRevealedCount": 25
+      "nonCollectibleRevealedCount": 29
     },
     {
       "id": 1125,
@@ -192,7 +192,7 @@
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
       "nonCollectibleCount": 37,
-      "nonCollectibleRevealedCount": 34
+      "nonCollectibleRevealedCount": 35
     },
     {
       "id": 1004,
@@ -202,7 +202,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 134,
       "nonCollectibleCount": 104,
-      "nonCollectibleRevealedCount": 96
+      "nonCollectibleRevealedCount": 98
     },
     {
       "id": 1001,
@@ -212,7 +212,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 113,
-      "nonCollectibleRevealedCount": 50
+      "nonCollectibleRevealedCount": 51
     },
     {
       "id": 27,
@@ -222,7 +222,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 57,
-      "nonCollectibleRevealedCount": 55
+      "nonCollectibleRevealedCount": 56
     },
     {
       "id": 25,
@@ -232,7 +232,7 @@
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
       "nonCollectibleCount": 94,
-      "nonCollectibleRevealedCount": 86
+      "nonCollectibleRevealedCount": 90
     },
     {
       "id": 23,
@@ -252,7 +252,7 @@
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
       "nonCollectibleCount": 36,
-      "nonCollectibleRevealedCount": 32
+      "nonCollectibleRevealedCount": 34
     },
     {
       "id": 20,
@@ -262,7 +262,7 @@
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
       "nonCollectibleCount": 186,
-      "nonCollectibleRevealedCount": 17
+      "nonCollectibleRevealedCount": 18
     },
     {
       "id": 15,
@@ -292,7 +292,7 @@
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
       "nonCollectibleCount": 29,
-      "nonCollectibleRevealedCount": 23
+      "nonCollectibleRevealedCount": 26
     },
     {
       "id": 12,
@@ -302,7 +302,7 @@
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
       "nonCollectibleCount": 116,
-      "nonCollectibleRevealedCount": 114
+      "nonCollectibleRevealedCount": 115
     }
   ],
   "setGroups": [
@@ -1986,6 +1986,7 @@
       "name": "모두",
       "gameModes": [
         1,
+        2,
         4,
         5
       ]
