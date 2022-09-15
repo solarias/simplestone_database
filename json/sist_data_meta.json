@@ -8,7 +8,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 116,
-      "nonCollectibleRevealedCount": 49
+      "nonCollectibleRevealedCount": 48
     },
     {
       "id": 1658,
@@ -18,7 +18,7 @@
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 517,
-      "nonCollectibleRevealedCount": 79
+      "nonCollectibleRevealedCount": 80
     },
     {
       "id": 1637,
@@ -40,9 +40,9 @@
       ],
       "type": "",
       "collectibleCount": 425,
-      "collectibleRevealedCount": 418,
+      "collectibleRevealedCount": 424,
       "nonCollectibleCount": 149,
-      "nonCollectibleRevealedCount": 146
+      "nonCollectibleRevealedCount": 139
     },
     {
       "id": 1626,
@@ -52,7 +52,7 @@
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 373,
-      "nonCollectibleRevealedCount": 72
+      "nonCollectibleRevealedCount": 70
     },
     {
       "id": 1578,
@@ -62,7 +62,7 @@
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 313,
-      "nonCollectibleRevealedCount": 71
+      "nonCollectibleRevealedCount": 68
     },
     {
       "id": 1525,
@@ -72,7 +72,7 @@
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 665,
-      "nonCollectibleRevealedCount": 94
+      "nonCollectibleRevealedCount": 82
     },
     {
       "id": 1646,
@@ -92,7 +92,7 @@
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 358,
-      "nonCollectibleRevealedCount": 138
+      "nonCollectibleRevealedCount": 111
     },
     {
       "id": 1443,
@@ -102,7 +102,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 193,
-      "nonCollectibleRevealedCount": 57
+      "nonCollectibleRevealedCount": 56
     },
     {
       "id": 1463,
@@ -122,7 +122,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 79,
-      "nonCollectibleRevealedCount": 58
+      "nonCollectibleRevealedCount": 57
     },
     {
       "id": 1403,
@@ -142,7 +142,7 @@
       "collectibleCount": 140,
       "collectibleRevealedCount": 140,
       "nonCollectibleCount": 61,
-      "nonCollectibleRevealedCount": 55
+      "nonCollectibleRevealedCount": 56
     },
     {
       "id": 1158,
@@ -182,7 +182,7 @@
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 33,
-      "nonCollectibleRevealedCount": 29
+      "nonCollectibleRevealedCount": 28
     },
     {
       "id": 1125,
@@ -200,7 +200,7 @@
       "slug": "kobolds-and-catacombs",
       "type": "expansion",
       "collectibleCount": 135,
-      "collectibleRevealedCount": 134,
+      "collectibleRevealedCount": 135,
       "nonCollectibleCount": 104,
       "nonCollectibleRevealedCount": 98
     },
@@ -1671,10 +1671,8 @@
       "id": 3,
       "name": "사냥꾼",
       "cardId": 31,
-      "heroPowerCardId": 229,
       "alternateHeroCardIds": [
         2826,
-        57759,
         60335,
         61597,
         64699,
