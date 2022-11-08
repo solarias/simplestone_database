@@ -6,18 +6,18 @@
       "slug": "path-of-arthas",
       "type": "",
       "collectibleCount": 26,
-      "collectibleRevealedCount": 6,
+      "collectibleRevealedCount": 9,
       "nonCollectibleCount": 4,
-      "nonCollectibleRevealedCount": 1
+      "nonCollectibleRevealedCount": 2
     },
     {
       "id": 1776,
       "name": "리치 왕의 진군",
       "slug": "march-of-the-lich-king",
       "type": "expansion",
-      "collectibleCount": 146,
+      "collectibleCount": 145,
       "collectibleRevealedCount": 21,
-      "nonCollectibleCount": 90,
+      "nonCollectibleCount": 91,
       "nonCollectibleRevealedCount": 7
     },
     {
@@ -46,9 +46,9 @@
       "slug": "core",
       "type": "",
       "collectibleCount": 282,
-      "collectibleRevealedCount": 256,
+      "collectibleRevealedCount": 263,
       "nonCollectibleCount": 26,
-      "nonCollectibleRevealedCount": 5
+      "nonCollectibleRevealedCount": 6
     },
     {
       "id": 1635,
