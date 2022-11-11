@@ -6,7 +6,7 @@
       "slug": "path-of-arthas",
       "type": "",
       "collectibleCount": 26,
-      "collectibleRevealedCount": 26,
+      "collectibleRevealedCount": 21,
       "nonCollectibleCount": 4,
       "nonCollectibleRevealedCount": 4
     },
@@ -16,7 +16,7 @@
       "slug": "march-of-the-lich-king",
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 29,
+      "collectibleRevealedCount": 25,
       "nonCollectibleCount": 92,
       "nonCollectibleRevealedCount": 8
     },
@@ -46,7 +46,7 @@
       "slug": "core",
       "type": "",
       "collectibleCount": 282,
-      "collectibleRevealedCount": 282,
+      "collectibleRevealedCount": 277,
       "nonCollectibleCount": 26,
       "nonCollectibleRevealedCount": 9
     },
