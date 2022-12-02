@@ -697,10 +697,7 @@
       "id": 1,
       "name": "죽음의 기사",
       "cardId": 78065,
-      "heroPowerCardId": 78162,
-      "alternateHeroCardIds": [
-        78066
-      ]
+      "heroPowerCardId": 78162
     },
     {
       "slug": "demonhunter",
