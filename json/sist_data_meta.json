@@ -252,7 +252,7 @@
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
       "nonCollectibleCount": 94,
-      "nonCollectibleRevealedCount": 90
+      "nonCollectibleRevealedCount": 88
     },
     {
       "id": 23,
@@ -272,7 +272,7 @@
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
       "nonCollectibleCount": 38,
-      "nonCollectibleRevealedCount": 33
+      "nonCollectibleRevealedCount": 31
     },
     {
       "id": 20,
@@ -302,7 +302,7 @@
       "collectibleCount": 31,
       "collectibleRevealedCount": 31,
       "nonCollectibleCount": 175,
-      "nonCollectibleRevealedCount": 12
+      "nonCollectibleRevealedCount": 10
     },
     {
       "id": 13,
@@ -697,7 +697,10 @@
       "id": 1,
       "name": "죽음의 기사",
       "cardId": 78065,
-      "heroPowerCardId": 78162
+      "heroPowerCardId": 78162,
+      "alternateHeroCardIds": [
+        78066
+      ]
     },
     {
       "slug": "demonhunter",
