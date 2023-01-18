@@ -17,7 +17,7 @@
       "type": "expansion",
       "collectibleCount": 145,
       "collectibleRevealedCount": 145,
-      "nonCollectibleCount": 108,
+      "nonCollectibleCount": 116,
       "nonCollectibleRevealedCount": 47
     },
     {
@@ -47,7 +47,7 @@
       "type": "",
       "collectibleCount": 282,
       "collectibleRevealedCount": 282,
-      "nonCollectibleCount": 58,
+      "nonCollectibleCount": 59,
       "nonCollectibleRevealedCount": 9
     },
     {
@@ -61,7 +61,7 @@
       "type": "",
       "collectibleCount": 425,
       "collectibleRevealedCount": 424,
-      "nonCollectibleCount": 166,
+      "nonCollectibleCount": 168,
       "nonCollectibleRevealedCount": 139
     },
     {
@@ -171,7 +171,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 57,
+      "nonCollectibleCount": 60,
       "nonCollectibleRevealedCount": 47
     },
     {
@@ -181,8 +181,8 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 70,
-      "nonCollectibleRevealedCount": 55
+      "nonCollectibleCount": 69,
+      "nonCollectibleRevealedCount": 54
     },
     {
       "id": 1129,
@@ -211,7 +211,7 @@
       "type": "expansion",
       "collectibleCount": 129,
       "collectibleRevealedCount": 129,
-      "nonCollectibleCount": 39,
+      "nonCollectibleCount": 41,
       "nonCollectibleRevealedCount": 35
     },
     {
@@ -221,7 +221,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 107,
+      "nonCollectibleCount": 108,
       "nonCollectibleRevealedCount": 98
     },
     {
@@ -231,7 +231,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 114,
+      "nonCollectibleCount": 124,
       "nonCollectibleRevealedCount": 51
     },
     {
@@ -251,7 +251,7 @@
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
-      "nonCollectibleCount": 94,
+      "nonCollectibleCount": 95,
       "nonCollectibleRevealedCount": 88
     },
     {
@@ -271,7 +271,7 @@
       "type": "expansion",
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
-      "nonCollectibleCount": 38,
+      "nonCollectibleCount": 39,
       "nonCollectibleRevealedCount": 31
     },
     {
@@ -281,7 +281,7 @@
       "type": "adventure",
       "collectibleCount": 45,
       "collectibleRevealedCount": 45,
-      "nonCollectibleCount": 187,
+      "nonCollectibleCount": 188,
       "nonCollectibleRevealedCount": 18
     },
     {
@@ -322,7 +322,7 @@
       "collectibleCount": 30,
       "collectibleRevealedCount": 30,
       "nonCollectibleCount": 118,
-      "nonCollectibleRevealedCount": 115
+      "nonCollectibleRevealedCount": 114
     }
   ],
   "setGroups": [
@@ -1977,6 +1977,7 @@
       "name": "언데드",
       "gameModes": [
         1,
+        2,
         4,
         5,
         6,
