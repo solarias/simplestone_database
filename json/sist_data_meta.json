@@ -15,10 +15,10 @@
       "name": "리치 왕의 진군",
       "slug": "march-of-the-lich-king",
       "type": "expansion",
-      "collectibleCount": 145,
-      "collectibleRevealedCount": 145,
-      "nonCollectibleCount": 116,
-      "nonCollectibleRevealedCount": 47
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 149,
+      "nonCollectibleCount": 133,
+      "nonCollectibleRevealedCount": 52
     },
     {
       "id": 1691,
@@ -2396,7 +2396,7 @@
       "id": 17,
       "slug": "immune",
       "name": "면역",
-      "refText": "적의 대상으로 지정되거나 피해를 받지 않습니다.",
+      "refText": "면역인 캐릭터에게는 피해를 줄 수 없습니다.",
       "text": "적의 대상으로 지정되거나 피해를 받지 않습니다.",
       "gameModes": [
         1,
