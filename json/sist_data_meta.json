@@ -11,6 +11,16 @@
       "nonCollectibleRevealedCount": 4
     },
     {
+      "id": 1809,
+      "name": "전설노래자랑",
+      "slug": "festival-of-legends",
+      "type": "",
+      "collectibleCount": 145,
+      "collectibleRevealedCount": 18,
+      "nonCollectibleCount": 47,
+      "nonCollectibleRevealedCount": 5
+    },
+    {
       "id": 1776,
       "name": "리치 왕의 진군",
       "slug": "march-of-the-lich-king",
@@ -41,6 +51,16 @@
       "nonCollectibleRevealedCount": 78
     },
     {
+      "id": 1646,
+      "name": "오리지널 카드",
+      "slug": "classic-cards",
+      "type": "",
+      "collectibleCount": 382,
+      "collectibleRevealedCount": 382,
+      "nonCollectibleCount": 96,
+      "nonCollectibleRevealedCount": 81
+    },
+    {
       "id": 1637,
       "name": "핵심",
       "slug": "core",
@@ -61,8 +81,8 @@
       "type": "",
       "collectibleCount": 425,
       "collectibleRevealedCount": 424,
-      "nonCollectibleCount": 168,
-      "nonCollectibleRevealedCount": 139
+      "nonCollectibleCount": 167,
+      "nonCollectibleRevealedCount": 138
     },
     {
       "id": 1626,
@@ -93,16 +113,6 @@
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 667,
       "nonCollectibleRevealedCount": 82
-    },
-    {
-      "id": 1646,
-      "name": "오리지널 카드",
-      "slug": "classic-cards",
-      "type": "",
-      "collectibleCount": 382,
-      "collectibleRevealedCount": 382,
-      "nonCollectibleCount": 96,
-      "nonCollectibleRevealedCount": 81
     },
     {
       "id": 1466,
@@ -202,7 +212,7 @@
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
       "nonCollectibleCount": 33,
-      "nonCollectibleRevealedCount": 28
+      "nonCollectibleRevealedCount": 27
     },
     {
       "id": 1125,
@@ -231,8 +241,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 124,
-      "nonCollectibleRevealedCount": 51
+      "nonCollectibleCount": 126,
+      "nonCollectibleRevealedCount": 53
     },
     {
       "id": 27,
@@ -436,6 +446,7 @@
       "slug": "standard",
       "cardSets": [
         "path-of-arthas",
+        "festival-of-legends",
         "march-of-the-lich-king",
         "murder-at-castle-nathria",
         "voyage-to-the-sunken-city",
@@ -450,6 +461,7 @@
       "slug": "wild",
       "cardSets": [
         "path-of-arthas",
+        "festival-of-legends",
         "march-of-the-lich-king",
         "murder-at-castle-nathria",
         "voyage-to-the-sunken-city",
@@ -2716,7 +2728,7 @@
       "slug": "immune",
       "name": "면역",
       "refText": "면역인 캐릭터에게는 피해를 줄 수 없습니다.",
-      "text": "적의 대상으로 지정되거나 피해를 받지 않습니다.",
+      "text": "피해를 받지 않습니다.",
       "gameModes": [
         1,
         2,
@@ -3148,6 +3160,28 @@
       "refText": "공격하기 전에는 공격받지 않습니다.",
       "text": "공격하기 전에는 공격받지 않습니다.",
       "gameModes": []
+    },
+    {
+      "id": 255,
+      "slug": "finale",
+      "name": "피날레",
+      "refText": "낼 때 남은 마나를 모두 소모하면 추가 효과를 냅니다.",
+      "text": "낼 때 남은 마나를 모두 소모하면 추가 효과를 냅니다.",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 256,
+      "slug": "overheal",
+      "name": "초과 치유",
+      "refText": "최대 생명력을 초과해 회복하면 추가 효과를 냅니다.",
+      "text": "최대 생명력을 초과해 회복하면 추가 효과를 냅니다.",
+      "gameModes": [
+        1,
+        5
+      ]
     },
     {
       "id": 257,
