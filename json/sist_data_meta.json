@@ -16,7 +16,7 @@
       "slug": "festival-of-legends",
       "type": "",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 78,
+      "collectibleRevealedCount": 86,
       "nonCollectibleCount": 47,
       "nonCollectibleRevealedCount": 12
     },
@@ -336,6 +336,15 @@
     }
   ],
   "setGroups": [
+    {
+      "slug": "Wolf",
+      "year": 2023,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt436c5e93bf8faf2c/64079268ad9e38554653fb6b/YotW_SetIcon_Colored.svg",
+      "cardSets": [],
+      "name": "늑대의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearoftheWolf"
+    },
     {
       "slug": "hydra",
       "year": 2022,
