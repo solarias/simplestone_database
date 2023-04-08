@@ -14,7 +14,7 @@
       "id": 1809,
       "name": "전설노래자랑",
       "slug": "festival-of-legends",
-      "type": "",
+      "type": "expansion",
       "collectibleCount": 145,
       "collectibleRevealedCount": 145,
       "nonCollectibleCount": 47,
