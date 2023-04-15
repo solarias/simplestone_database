@@ -65,8 +65,8 @@
       "name": "핵심",
       "slug": "core",
       "type": "",
-      "collectibleCount": 236,
-      "collectibleRevealedCount": 210,
+      "collectibleCount": 282,
+      "collectibleRevealedCount": 281,
       "nonCollectibleCount": 59,
       "nonCollectibleRevealedCount": 11
     },
@@ -79,10 +79,10 @@
         4
       ],
       "type": "",
-      "collectibleCount": 430,
-      "collectibleRevealedCount": 424,
+      "collectibleCount": 424,
+      "collectibleRevealedCount": 418,
       "nonCollectibleCount": 167,
-      "nonCollectibleRevealedCount": 138
+      "nonCollectibleRevealedCount": 137
     },
     {
       "id": 1626,
@@ -219,8 +219,8 @@
       "name": "마녀숲",
       "slug": "the-witchwood",
       "type": "expansion",
-      "collectibleCount": 129,
-      "collectibleRevealedCount": 129,
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
       "nonCollectibleCount": 41,
       "nonCollectibleRevealedCount": 35
     },
@@ -509,22 +509,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "Constructed"
+      "name": "정규 및 야생"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "Battlegrounds"
+      "name": "전장"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "Arena"
+      "name": "현재 투기장 카드"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "Duels"
+      "name": "현재 결투 카드"
     },
     {
       "slug": "standard",
@@ -534,7 +534,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "Classic"
+      "name": "오리지널"
     },
     {
       "slug": "mercenaries",
@@ -543,9 +543,62 @@
     }
   ],
   "arenaIds": [
+    102969,
+    102790,
+    102745,
+    102743,
+    102719,
+    102718,
+    102275,
+    102272,
+    102246,
+    102230,
+    102229,
+    102228,
+    102227,
+    102226,
+    102225,
+    102224,
+    102223,
+    102222,
+    102221,
+    102219,
+    102218,
+    102217,
+    102216,
+    102215,
+    102214,
+    102213,
+    102212,
+    102211,
+    102210,
+    102209,
+    102208,
+    102207,
+    102206,
+    102205,
+    102204,
+    102203,
+    102202,
+    102200,
+    102199,
+    102198,
+    102197,
+    102196,
+    102195,
+    102194,
+    102193,
+    102192,
+    102191,
+    102190,
+    102189,
+    102188,
+    102187,
+    102186,
+    102185,
+    102184,
     78644,
     78169,
-    80647,
     80648,
     80649,
     80736,
@@ -581,7 +634,13 @@
     78356,
     78334,
     79503,
+    97374,
+    97375,
+    97377,
+    97379,
+    97376,
     82067,
+    97608,
     97532,
     97528,
     97403,
@@ -589,12 +648,24 @@
     97362,
     97361,
     97360,
+    97346,
+    97344,
+    97343,
+    97333,
+    97332,
+    97329,
+    97326,
+    96916,
+    97112,
     97003,
     96999,
     96997,
     96996,
     96992,
     96946,
+    95755,
+    95746,
+    95688,
     80090,
     80085,
     78348,
@@ -790,7 +861,6 @@
     86540,
     86543,
     86544,
-    86546,
     86548,
     86551,
     86552,
@@ -1330,6 +1400,7 @@
     66176,
     64465,
     62698,
+    62498,
     62497,
     62442,
     62347,
@@ -2455,7 +2526,9 @@
       "text": "내 기계 왼쪽에 내면 합체합니다!",
       "gameModes": [
         1,
-        2
+        2,
+        4,
+        5
       ]
     },
     {
