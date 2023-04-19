@@ -66,7 +66,7 @@
       "slug": "core",
       "type": "",
       "collectibleCount": 282,
-      "collectibleRevealedCount": 281,
+      "collectibleRevealedCount": 282,
       "nonCollectibleCount": 59,
       "nonCollectibleRevealedCount": 12
     },
@@ -599,6 +599,7 @@
     102184,
     78644,
     78169,
+    80647,
     80648,
     80649,
     80736,
