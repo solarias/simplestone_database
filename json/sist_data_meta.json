@@ -82,7 +82,7 @@
       "collectibleCount": 424,
       "collectibleRevealedCount": 418,
       "nonCollectibleCount": 167,
-      "nonCollectibleRevealedCount": 137
+      "nonCollectibleRevealedCount": 138
     },
     {
       "id": 1626,
@@ -1699,7 +1699,7 @@
       "id": 3,
       "name": "사냥꾼",
       "cardId": 31,
-      "heroPowerCardId": 2738,
+      "heroPowerCardId": 229,
       "alternateHeroCardIds": [
         2826,
         60335,
