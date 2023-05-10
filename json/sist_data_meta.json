@@ -27,8 +27,8 @@
       "type": "expansion",
       "collectibleCount": 183,
       "collectibleRevealedCount": 183,
-      "nonCollectibleCount": 133,
-      "nonCollectibleRevealedCount": 60
+      "nonCollectibleCount": 136,
+      "nonCollectibleRevealedCount": 64
     },
     {
       "id": 1691,
@@ -79,10 +79,10 @@
         4
       ],
       "type": "",
-      "collectibleCount": 424,
+      "collectibleCount": 425,
       "collectibleRevealedCount": 418,
-      "nonCollectibleCount": 167,
-      "nonCollectibleRevealedCount": 138
+      "nonCollectibleCount": 165,
+      "nonCollectibleRevealedCount": 136
     },
     {
       "id": 1626,
@@ -132,7 +132,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 197,
-      "nonCollectibleRevealedCount": 57
+      "nonCollectibleRevealedCount": 58
     },
     {
       "id": 1463,
@@ -191,8 +191,8 @@
       "type": "expansion",
       "collectibleCount": 136,
       "collectibleRevealedCount": 136,
-      "nonCollectibleCount": 69,
-      "nonCollectibleRevealedCount": 54
+      "nonCollectibleCount": 68,
+      "nonCollectibleRevealedCount": 53
     },
     {
       "id": 1129,
@@ -231,8 +231,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 108,
-      "nonCollectibleRevealedCount": 98
+      "nonCollectibleCount": 106,
+      "nonCollectibleRevealedCount": 96
     },
     {
       "id": 1001,
@@ -241,8 +241,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 126,
-      "nonCollectibleRevealedCount": 53
+      "nonCollectibleCount": 128,
+      "nonCollectibleRevealedCount": 55
     },
     {
       "id": 27,
@@ -261,8 +261,8 @@
       "type": "expansion",
       "collectibleCount": 132,
       "collectibleRevealedCount": 132,
-      "nonCollectibleCount": 95,
-      "nonCollectibleRevealedCount": 88
+      "nonCollectibleCount": 94,
+      "nonCollectibleRevealedCount": 87
     },
     {
       "id": 23,
@@ -321,8 +321,8 @@
       "type": "expansion",
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
-      "nonCollectibleCount": 32,
-      "nonCollectibleRevealedCount": 26
+      "nonCollectibleCount": 31,
+      "nonCollectibleRevealedCount": 25
     },
     {
       "id": 12,
@@ -2369,7 +2369,6 @@
       "text": "피해를 받지 않습니다.",
       "gameModes": [
         1,
-        2,
         4,
         5,
         6
@@ -2428,7 +2427,6 @@
       "text": "이 카드에 피해를 받은 하수인을 무조건 처치합니다.",
       "gameModes": [
         1,
-        2,
         4,
         5
       ]
@@ -2694,8 +2692,8 @@
       "id": 109,
       "slug": "blood-gem",
       "name": "혈석",
-      "refText": "아군 하수인에게 +1/+1을 부여하는 주문입니다.",
-      "text": "아군 하수인에게 +1/+1을 부여하는 주문입니다.",
+      "refText": "하수인에게 |1(을,를) 부여하는 주문입니다.",
+      "text": "하수인에게 |1(을,를) 부여하는 주문입니다.",
       "gameModes": [
         2
       ]
@@ -2794,7 +2792,9 @@
       "name": "은신",
       "refText": "공격하기 전에는 공격받지 않습니다.",
       "text": "공격하기 전에는 공격받지 않습니다.",
-      "gameModes": []
+      "gameModes": [
+        2
+      ]
     },
     {
       "id": 255,
@@ -2829,6 +2829,16 @@
         1,
         4,
         5
+      ]
+    },
+    {
+      "id": 261,
+      "slug": "venomous",
+      "name": "독소",
+      "refText": "처음으로 피해를 주는 하수인을 처치합니다.",
+      "text": "처음으로 피해를 주는 하수인을 처치합니다.",
+      "gameModes": [
+        2
       ]
     }
   ],
