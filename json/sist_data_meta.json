@@ -11,14 +11,24 @@
       "nonCollectibleRevealedCount": 4
     },
     {
+      "id": 1858,
+      "name": "티탄",
+      "slug": "titans",
+      "type": "expansion",
+      "collectibleCount": 145,
+      "collectibleRevealedCount": 13,
+      "nonCollectibleCount": 133,
+      "nonCollectibleRevealedCount": 11
+    },
+    {
       "id": 1809,
       "name": "전설노래자랑",
       "slug": "festival-of-legends",
       "type": "expansion",
       "collectibleCount": 183,
       "collectibleRevealedCount": 183,
-      "nonCollectibleCount": 73,
-      "nonCollectibleRevealedCount": 70
+      "nonCollectibleCount": 75,
+      "nonCollectibleRevealedCount": 71
     },
     {
       "id": 1776,
@@ -51,23 +61,13 @@
       "nonCollectibleRevealedCount": 78
     },
     {
-      "id": 1646,
-      "name": "오리지널 카드",
-      "slug": "classic-cards",
-      "type": "",
-      "collectibleCount": 382,
-      "collectibleRevealedCount": 382,
-      "nonCollectibleCount": 96,
-      "nonCollectibleRevealedCount": 81
-    },
-    {
       "id": 1637,
       "name": "핵심",
       "slug": "core",
       "type": "",
-      "collectibleCount": 282,
+      "collectibleCount": 284,
       "collectibleRevealedCount": 282,
-      "nonCollectibleCount": 59,
+      "nonCollectibleCount": 60,
       "nonCollectibleRevealedCount": 12
     },
     {
@@ -101,7 +101,7 @@
       "type": "expansion",
       "collectibleCount": 170,
       "collectibleRevealedCount": 170,
-      "nonCollectibleCount": 315,
+      "nonCollectibleCount": 317,
       "nonCollectibleRevealedCount": 66
     },
     {
@@ -113,6 +113,16 @@
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 667,
       "nonCollectibleRevealedCount": 82
+    },
+    {
+      "id": 1646,
+      "name": "오리지널 카드",
+      "slug": "classic-cards",
+      "type": "",
+      "collectibleCount": 382,
+      "collectibleRevealedCount": 382,
+      "nonCollectibleCount": 96,
+      "nonCollectibleRevealedCount": 81
     },
     {
       "id": 1466,
@@ -281,8 +291,8 @@
       "type": "expansion",
       "collectibleCount": 134,
       "collectibleRevealedCount": 134,
-      "nonCollectibleCount": 39,
-      "nonCollectibleRevealedCount": 31
+      "nonCollectibleCount": 40,
+      "nonCollectibleRevealedCount": 32
     },
     {
       "id": 20,
@@ -321,8 +331,8 @@
       "type": "expansion",
       "collectibleCount": 123,
       "collectibleRevealedCount": 123,
-      "nonCollectibleCount": 31,
-      "nonCollectibleRevealedCount": 25
+      "nonCollectibleCount": 32,
+      "nonCollectibleRevealedCount": 24
     },
     {
       "id": 12,
@@ -455,6 +465,7 @@
       "slug": "standard",
       "cardSets": [
         "path-of-arthas",
+        "titans",
         "festival-of-legends",
         "march-of-the-lich-king",
         "murder-at-castle-nathria",
@@ -467,6 +478,7 @@
       "slug": "wild",
       "cardSets": [
         "path-of-arthas",
+        "titans",
         "festival-of-legends",
         "march-of-the-lich-king",
         "murder-at-castle-nathria",
@@ -506,22 +518,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "Constructed"
+      "name": "정규 및 야생"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "Battlegrounds"
+      "name": "전장"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "Arena"
+      "name": "현재 투기장 카드"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "Duels"
+      "name": "현재 결투 카드"
     },
     {
       "slug": "standard",
@@ -531,7 +543,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "Classic"
+      "name": "오리지널"
     },
     {
       "slug": "mercenaries",
@@ -2877,6 +2889,28 @@
       "text": "처음으로 피해를 주는 하수인을 처치합니다.",
       "gameModes": [
         2
+      ]
+    },
+    {
+      "id": 266,
+      "slug": "forge",
+      "name": "제련",
+      "refText": "이 카드를 덱으로 끌어 옮기면 마나를 (2) 소모해 강화됩니다.",
+      "text": "이 카드를 덱으로 끌어 옮기면 마나를 (2) 소모해 강화됩니다.",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 270,
+      "slug": "titan",
+      "name": "티탄",
+      "refText": "티탄을 클릭하면 공격하는 대신 3개의 능력 중 1개를 사용합니다.",
+      "text": "티탄을 클릭하면 공격하는 대신 3개의 능력 중 1개를 사용합니다.",
+      "gameModes": [
+        1,
+        5
       ]
     }
   ],
