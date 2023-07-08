@@ -518,22 +518,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "Constructed"
+      "name": "정규 및 야생"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "Battlegrounds"
+      "name": "전장"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "Arena"
+      "name": "현재 투기장 카드"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "Duels"
+      "name": "현재 결투 카드"
     },
     {
       "slug": "standard",
@@ -543,7 +543,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "Classic"
+      "name": "오리지널"
     },
     {
       "slug": "mercenaries",
