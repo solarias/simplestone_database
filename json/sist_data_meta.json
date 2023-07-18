@@ -1594,6 +1594,7 @@
       "name": "주문",
       "gameModes": [
         1,
+        2,
         4,
         5,
         6
@@ -1631,7 +1632,10 @@
     {
       "slug": "baconquestreward",
       "id": 40,
-      "name": "보상"
+      "name": "보상",
+      "gameModes": [
+        2
+      ]
     }
   ],
   "rarities": [
@@ -2466,6 +2470,7 @@
       "text": "언제나 내 시작 카드에 있습니다. 완료하면 보상을 얻습니다.",
       "gameModes": [
         1,
+        2,
         4
       ]
     },
