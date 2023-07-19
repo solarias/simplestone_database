@@ -16,7 +16,7 @@
       "slug": "titans",
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 98,
+      "collectibleRevealedCount": 102,
       "nonCollectibleCount": 133,
       "nonCollectibleRevealedCount": 110
     },
@@ -66,7 +66,7 @@
       "slug": "core",
       "type": "",
       "collectibleCount": 284,
-      "collectibleRevealedCount": 282,
+      "collectibleRevealedCount": 284,
       "nonCollectibleCount": 60,
       "nonCollectibleRevealedCount": 12
     },
