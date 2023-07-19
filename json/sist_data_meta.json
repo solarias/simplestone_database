@@ -16,9 +16,9 @@
       "slug": "titans",
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 95,
+      "collectibleRevealedCount": 98,
       "nonCollectibleCount": 133,
-      "nonCollectibleRevealedCount": 108
+      "nonCollectibleRevealedCount": 110
     },
     {
       "id": 1809,
@@ -2674,16 +2674,6 @@
       "gameModes": [
         1,
         4
-      ]
-    },
-    {
-      "id": 92,
-      "slug": "start-of-combat",
-      "name": "기선 제압",
-      "refText": "전투가 시작될 때 효과가 발동합니다.",
-      "text": "전투가 시작될 때 효과가 발동합니다.",
-      "gameModes": [
-        2
       ]
     },
     {
