@@ -141,7 +141,7 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 197,
+      "nonCollectibleCount": 198,
       "nonCollectibleRevealedCount": 58
     },
     {
@@ -552,6 +552,8 @@
     }
   ],
   "arenaIds": [
+    98053,
+    96917,
     102969,
     102790,
     102745,
@@ -2707,7 +2709,6 @@
       "text": "피해를 받고 생존한 후에 발동하는 일회용 효과입니다.",
       "gameModes": [
         1,
-        2,
         4
       ]
     },
