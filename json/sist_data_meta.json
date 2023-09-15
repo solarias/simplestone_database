@@ -26,9 +26,9 @@
       "slug": "titans",
       "type": "expansion",
       "collectibleCount": 183,
-      "collectibleRevealedCount": 159,
+      "collectibleRevealedCount": 165,
       "nonCollectibleCount": 166,
-      "nonCollectibleRevealedCount": 137
+      "nonCollectibleRevealedCount": 138
     },
     {
       "id": 1809,
@@ -529,22 +529,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "Constructed"
+      "name": "정규 및 야생"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "Battlegrounds"
+      "name": "전장"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "Arena"
+      "name": "현재 투기장 카드"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "Duels"
+      "name": "현재 결투 카드"
     },
     {
       "slug": "standard",
@@ -554,7 +554,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "Classic"
+      "name": "오리지널"
     },
     {
       "slug": "mercenaries",
@@ -622,8 +622,11 @@
     102040,
     101869,
     101841,
+    101696,
     101661,
     101660,
+    101559,
+    101557,
     101513,
     101100,
     101099,
@@ -636,6 +639,9 @@
     100984,
     100929,
     100887,
+    100875,
+    100874,
+    100870,
     100093,
     98680,
     98626,
