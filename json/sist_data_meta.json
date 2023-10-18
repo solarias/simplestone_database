@@ -11,6 +11,16 @@
       "nonCollectibleRevealedCount": 23
     },
     {
+      "id": 1892,
+      "name": "황야의 땅 결투",
+      "slug": "showdown-in-the-badlands",
+      "type": "expansion",
+      "collectibleCount": 145,
+      "collectibleRevealedCount": 12,
+      "nonCollectibleCount": 74,
+      "nonCollectibleRevealedCount": 19
+    },
+    {
       "id": 1869,
       "name": "아서스의 길",
       "slug": "path-of-arthas",
@@ -27,8 +37,8 @@
       "type": "expansion",
       "collectibleCount": 183,
       "collectibleRevealedCount": 183,
-      "nonCollectibleCount": 166,
-      "nonCollectibleRevealedCount": 153
+      "nonCollectibleCount": 168,
+      "nonCollectibleRevealedCount": 155
     },
     {
       "id": 1809,
@@ -71,6 +81,16 @@
       "nonCollectibleRevealedCount": 78
     },
     {
+      "id": 1646,
+      "name": "오리지널 카드",
+      "slug": "classic-cards",
+      "type": "",
+      "collectibleCount": 382,
+      "collectibleRevealedCount": 382,
+      "nonCollectibleCount": 96,
+      "nonCollectibleRevealedCount": 63
+    },
+    {
       "id": 1637,
       "name": "핵심",
       "slug": "core",
@@ -91,8 +111,8 @@
       "type": "",
       "collectibleCount": 425,
       "collectibleRevealedCount": 418,
-      "nonCollectibleCount": 164,
-      "nonCollectibleRevealedCount": 116
+      "nonCollectibleCount": 163,
+      "nonCollectibleRevealedCount": 117
     },
     {
       "id": 1626,
@@ -123,16 +143,6 @@
       "collectibleRevealedCount": 170,
       "nonCollectibleCount": 667,
       "nonCollectibleRevealedCount": 82
-    },
-    {
-      "id": 1646,
-      "name": "오리지널 카드",
-      "slug": "classic-cards",
-      "type": "",
-      "collectibleCount": 382,
-      "collectibleRevealedCount": 382,
-      "nonCollectibleCount": 96,
-      "nonCollectibleRevealedCount": 63
     },
     {
       "id": 1466,
@@ -171,8 +181,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 84,
-      "nonCollectibleRevealedCount": 55
+      "nonCollectibleCount": 85,
+      "nonCollectibleRevealedCount": 56
     },
     {
       "id": 1403,
@@ -474,6 +484,7 @@
     {
       "slug": "standard",
       "cardSets": [
+        "showdown-in-the-badlands",
         "path-of-arthas",
         "titans",
         "festival-of-legends",
@@ -488,6 +499,7 @@
       "slug": "wild",
       "cardSets": [
         "caverns-of-time",
+        "showdown-in-the-badlands",
         "path-of-arthas",
         "titans",
         "festival-of-legends",
@@ -529,22 +541,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "정규 및 야생"
+      "name": "Constructed"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "전장"
+      "name": "Battlegrounds"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "현재 투기장 카드"
+      "name": "Arena"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "현재 결투 카드"
+      "name": "Duels"
     },
     {
       "slug": "standard",
@@ -554,7 +566,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "오리지널"
+      "name": "Classic"
     },
     {
       "slug": "mercenaries",
@@ -2452,6 +2464,7 @@
       "text": "공격하기 전에는 공격 받거나 대상이 되지 않습니다.",
       "gameModes": [
         1,
+        2,
         4,
         5,
         6
@@ -3056,6 +3069,28 @@
       "name": "티탄",
       "refText": "티탄을 클릭하면 공격하는 대신 3개의 능력 중 1개를 사용합니다.",
       "text": "티탄을 클릭하면 공격하는 대신 3개의 능력 중 1개를 사용합니다.",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 297,
+      "slug": "quickdraw",
+      "name": "속사의 달인",
+      "refText": "이 카드가 이번 턴에 손에 들어왔다면 보너스를 얻습니다.",
+      "text": "이 카드가 이번 턴에 손에 들어왔다면 보너스를 얻습니다.",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 298,
+      "slug": "excavate",
+      "name": "발굴",
+      "refText": "땅을 파서 더욱 진귀한 보물을 찾아보세요. 희귀도가 최고치에 다다르면 초기화됩니다.",
+      "text": "땅을 파서 더욱 진귀한 보물을 찾아보세요. 희귀도가 최고치에 다다르면 초기화됩니다.",
       "gameModes": [
         1,
         5
