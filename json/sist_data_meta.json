@@ -16,9 +16,9 @@
       "slug": "showdown-in-the-badlands",
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 60,
+      "collectibleRevealedCount": 68,
       "nonCollectibleCount": 74,
-      "nonCollectibleRevealedCount": 27
+      "nonCollectibleRevealedCount": 30
     },
     {
       "id": 1869,
@@ -541,22 +541,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "정규 및 야생"
+      "name": "Constructed"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "전장"
+      "name": "Battlegrounds"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "현재 투기장 카드"
+      "name": "Arena"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "현재 결투 카드"
+      "name": "Duels"
     },
     {
       "slug": "standard",
@@ -566,7 +566,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "오리지널"
+      "name": "Classic"
     },
     {
       "slug": "mercenaries",
@@ -2773,7 +2773,8 @@
       "refText": "한 턴에 네 번 공격할 수 있습니다.",
       "text": "한 턴에 네 번 공격할 수 있습니다.",
       "gameModes": [
-        1
+        1,
+        5
       ]
     },
     {
