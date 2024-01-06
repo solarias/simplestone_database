@@ -162,8 +162,8 @@
       "type": "expansion",
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
-      "nonCollectibleCount": 85,
-      "nonCollectibleRevealedCount": 56
+      "nonCollectibleCount": 84,
+      "nonCollectibleRevealedCount": 55
     },
     {
       "id": 1463,
@@ -386,8 +386,8 @@
       "type": "",
       "collectibleCount": 425,
       "collectibleRevealedCount": 418,
-      "nonCollectibleCount": 170,
-      "nonCollectibleRevealedCount": 117
+      "nonCollectibleCount": 171,
+      "nonCollectibleRevealedCount": 118
     },
     {
       "id": 1637,
@@ -2867,8 +2867,8 @@
       "id": 198,
       "slug": "avenge",
       "name": "복수 (X)",
-      "refText": "아군 하수인 X마리가 죽은 후에 효과가 발동합니다.",
-      "text": "아군 하수인 X마리가 죽은 후에 효과가 발동합니다.",
+      "refText": "아군 하수인 X마리가 전투에서 죽은 후에 효과가 발동합니다.",
+      "text": "아군 하수인 X마리가 전투에서 죽은 후에 효과가 발동합니다.",
       "gameModes": [
         2
       ]
