@@ -387,7 +387,7 @@
       "collectibleCount": 425,
       "collectibleRevealedCount": 418,
       "nonCollectibleCount": 171,
-      "nonCollectibleRevealedCount": 118
+      "nonCollectibleRevealedCount": 116
     },
     {
       "id": 1637,
@@ -1935,11 +1935,7 @@
       "heroPowerCardId": 60224,
       "alternateHeroCardIds": [
         60238,
-        62491,
-        64697,
-        71077,
-        71078,
-        71079
+        62491
       ]
     },
     {
@@ -2009,19 +2005,7 @@
       "slug": "priest",
       "id": 6,
       "name": "사제",
-      "cardId": 813,
-      "heroPowerCardId": 479,
-      "alternateHeroCardIds": [
-        41887,
-        54816,
-        57767,
-        64733,
-        67523,
-        67710,
-        71074,
-        71075,
-        71076
-      ]
+      "cardId": 813
     },
     {
       "slug": "rogue",
