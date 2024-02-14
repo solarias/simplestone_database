@@ -1,6 +1,28 @@
 {
   "sets": [
     {
+      "id": 1897,
+      "name": "위즈뱅의 장난감 공방",
+      "slug": "whizbangs-workshop",
+      "hyped": true,
+      "type": "expansion",
+      "collectibleCount": 145,
+      "collectibleRevealedCount": 13,
+      "nonCollectibleCount": 86,
+      "nonCollectibleRevealedCount": 22
+    },
+    {
+      "id": 1941,
+      "name": "이벤트",
+      "slug": "event",
+      "hyped": true,
+      "type": "expansion",
+      "collectibleCount": 12,
+      "collectibleRevealedCount": 12,
+      "nonCollectibleCount": 5,
+      "nonCollectibleRevealedCount": 0
+    },
+    {
       "id": 1892,
       "name": "황야의 땅 결투",
       "slug": "showdown-in-the-badlands",
@@ -403,6 +425,15 @@
   ],
   "setGroups": [
     {
+      "slug": "Pegasus",
+      "year": 2024,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt0136a847fd5a5b74/65c55bcddc7247cae3e8f320/PegasusSVG.svg",
+      "cardSets": [],
+      "name": "페가수스의 해",
+      "standard": true,
+      "icon": "icon_cardset_yearofthePegasus"
+    },
+    {
       "slug": "Wolf",
       "year": 2023,
       "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt436c5e93bf8faf2c/64079268ad9e38554653fb6b/YotW_SetIcon_Colored.svg",
@@ -520,6 +551,8 @@
     {
       "slug": "standard",
       "cardSets": [
+        "event",
+        "whizbangs-workshop",
         "showdown-in-the-badlands",
         "path-of-arthas",
         "titans",
@@ -534,7 +567,9 @@
     {
       "slug": "wild",
       "cardSets": [
+        "event",
         "caverns-of-time",
+        "whizbangs-workshop",
         "showdown-in-the-badlands",
         "path-of-arthas",
         "titans",
@@ -577,22 +612,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "Constructed"
+      "name": "정규 및 야생"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "Battlegrounds"
+      "name": "전장"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "Arena"
+      "name": "현재 투기장 카드"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "Duels"
+      "name": "현재 결투 카드"
     },
     {
       "slug": "standard",
@@ -602,7 +637,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "Classic"
+      "name": "오리지널"
     },
     {
       "slug": "mercenaries",
@@ -631,7 +666,6 @@
     66223,
     66228,
     66239,
-    66242,
     66244,
     66251,
     66254,
@@ -640,12 +674,9 @@
     66263,
     66266,
     66267,
-    66276,
-    66278,
     66279,
     66282,
     67798,
-    67799,
     103575,
     106578,
     106568,
@@ -2945,8 +2976,8 @@
       "id": 196,
       "slug": "refresh\n",
       "name": "새로고침",
-      "refText": "밥의 선술집을 새로운 하수인들로 다시 채웁니다.",
-      "text": "밥의 선술집을 새로운 하수인들로 다시 채웁니다.",
+      "refText": "선술집을 새로운 카드들로 다시 채웁니다.",
+      "text": "선술집을 새로운 카드들로 다시 채웁니다.",
       "gameModes": [
         2
       ]
@@ -3085,6 +3116,14 @@
       ]
     },
     {
+      "id": 265,
+      "slug": "elusive",
+      "name": "모면",
+      "refText": "주문이나 영웅 능력의 대상으로 지정되지 않습니다.",
+      "text": "주문이나 영웅 능력의 대상으로 지정되지 않습니다.",
+      "gameModes": []
+    },
+    {
       "id": 266,
       "slug": "forge\t\t\n",
       "name": "제련",
@@ -3105,6 +3144,25 @@
         1,
         5
       ]
+    },
+    {
+      "id": 294,
+      "slug": "miniaturize",
+      "name": "미니미",
+      "refText": "이 하수인을 비용이 1인 1/1 하수인으로 복사하여 얻습니다.",
+      "text": "이 하수인을 비용이 1인 1/1 하수인으로 복사하여 얻습니다.",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 295,
+      "slug": "mini",
+      "name": "미니",
+      "refText": "비용이 1인 1/1 하수인으로 복사된 카드입니다.",
+      "text": "비용이 1인 1/1 하수인으로 복사된 카드입니다.",
+      "gameModes": []
     },
     {
       "id": 297,
