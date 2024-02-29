@@ -7,9 +7,9 @@
       "hyped": true,
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 47,
+      "collectibleRevealedCount": 55,
       "nonCollectibleCount": 86,
-      "nonCollectibleRevealedCount": 41
+      "nonCollectibleRevealedCount": 42
     },
     {
       "id": 1941,
@@ -3162,7 +3162,10 @@
       "name": "미니",
       "refText": "비용이 1인 1/1 하수인으로 복사된 카드입니다.",
       "text": "비용이 1인 1/1 하수인으로 복사된 카드입니다.",
-      "gameModes": []
+      "gameModes": [
+        1,
+        5
+      ]
     },
     {
       "id": 297,
