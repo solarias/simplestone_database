@@ -7,9 +7,9 @@
       "hyped": true,
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 72,
+      "collectibleRevealedCount": 81,
       "nonCollectibleCount": 86,
-      "nonCollectibleRevealedCount": 43
+      "nonCollectibleRevealedCount": 46
     },
     {
       "id": 1941,
@@ -3121,7 +3121,10 @@
       "name": "모면",
       "refText": "주문이나 영웅 능력의 대상으로 지정되지 않습니다.",
       "text": "주문이나 영웅 능력의 대상으로 지정되지 않습니다.",
-      "gameModes": []
+      "gameModes": [
+        1,
+        5
+      ]
     },
     {
       "id": 266,
