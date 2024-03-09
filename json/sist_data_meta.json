@@ -7,9 +7,9 @@
       "hyped": true,
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 129,
+      "collectibleRevealedCount": 138,
       "nonCollectibleCount": 86,
-      "nonCollectibleRevealedCount": 58
+      "nonCollectibleRevealedCount": 60
     },
     {
       "id": 1941,
@@ -612,22 +612,22 @@
     {
       "slug": "constructed",
       "id": 1,
-      "name": "정규 및 야생"
+      "name": "Constructed"
     },
     {
       "slug": "battlegrounds",
       "id": 2,
-      "name": "전장"
+      "name": "Battlegrounds"
     },
     {
       "slug": "arena",
       "id": 3,
-      "name": "현재 투기장 카드"
+      "name": "Arena"
     },
     {
       "slug": "duels",
       "id": 4,
-      "name": "현재 결투 카드"
+      "name": "Duels"
     },
     {
       "slug": "standard",
@@ -637,7 +637,7 @@
     {
       "slug": "classic",
       "id": 6,
-      "name": "오리지널"
+      "name": "Classic"
     },
     {
       "slug": "mercenaries",
