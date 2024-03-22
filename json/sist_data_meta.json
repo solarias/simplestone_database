@@ -15,7 +15,7 @@
       "id": 1941,
       "name": "이벤트",
       "slug": "event",
-      "hyped": true,
+      "hyped": false,
       "type": "expansion",
       "collectibleCount": 12,
       "collectibleRevealedCount": 12,
@@ -174,7 +174,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 201,
-      "nonCollectibleRevealedCount": 62
+      "nonCollectibleRevealedCount": 63
     },
     {
       "id": 1414,
@@ -229,7 +229,7 @@
       "collectibleCount": 135,
       "collectibleRevealedCount": 135,
       "nonCollectibleCount": 60,
-      "nonCollectibleRevealedCount": 43
+      "nonCollectibleRevealedCount": 39
     },
     {
       "id": 1130,
@@ -554,12 +554,8 @@
         "event",
         "whizbangs-workshop",
         "showdown-in-the-badlands",
-        "path-of-arthas",
         "titans",
         "festival-of-legends",
-        "march-of-the-lich-king",
-        "murder-at-castle-nathria",
-        "voyage-to-the-sunken-city",
         "core"
       ],
       "name": "정규 세트"
@@ -6409,8 +6405,7 @@
       "text": "소환하면, 부위를 X개 생성합니다.",
       "gameModes": [
         1,
-        4,
-        5
+        4
       ]
     },
     {
@@ -6421,8 +6416,7 @@
       "text": "내 덱 맨 밑에 있는 카드 3장을 미리 봅니다. 1장을 선택해 내 덱 맨 위에 놓습니다.",
       "gameModes": [
         1,
-        4,
-        5
+        4
       ]
     },
     {
@@ -6453,8 +6447,7 @@
       "text": "아군 하수인 X마리가 죽은 후에 손에서 강화됩니다.",
       "gameModes": [
         1,
-        4,
-        5
+        4
       ]
     },
     {
@@ -6510,8 +6503,7 @@
       "text": "마나 수정이 X개 있으면 추가 효과를 얻습니다.",
       "gameModes": [
         1,
-        4,
-        5
+        4
       ]
     },
     {
