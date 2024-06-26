@@ -7,9 +7,9 @@
       "hyped": true,
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 35,
+      "collectibleRevealedCount": 46,
       "nonCollectibleCount": 117,
-      "nonCollectibleRevealedCount": 27
+      "nonCollectibleRevealedCount": 28
     },
     {
       "id": 1897,
@@ -6457,16 +6457,6 @@
       "gameModes": [
         1,
         5
-      ]
-    },
-    {
-      "id": 252,
-      "slug": "stealth\n",
-      "name": "은신",
-      "refText": "공격하기 전에는 공격받지 않습니다.",
-      "text": "공격하기 전에는 공격받지 않습니다.",
-      "gameModes": [
-        2
       ]
     },
     {
