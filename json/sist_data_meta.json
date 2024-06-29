@@ -7,9 +7,9 @@
       "hyped": true,
       "type": "expansion",
       "collectibleCount": 145,
-      "collectibleRevealedCount": 63,
+      "collectibleRevealedCount": 72,
       "nonCollectibleCount": 117,
-      "nonCollectibleRevealedCount": 35
+      "nonCollectibleRevealedCount": 66
     },
     {
       "id": 1897,
@@ -6314,7 +6314,8 @@
       "refText": "완료하면 보상을 얻습니다.",
       "text": "완료하면 보상을 얻습니다.",
       "gameModes": [
-        1
+        1,
+        5
       ]
     },
     {
